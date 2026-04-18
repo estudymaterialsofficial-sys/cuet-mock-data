@@ -1948,5 +1948,1955 @@
     ],
     "correctAnswer": 2,
     "explanation": "A euphemism is a mild substitute for a harsh word (A-II). An oxymoron combines contradictory words (B-I). An epilogue is the concluding section of a story (C-IV). Posthumous describes something happening after death (D-III)."
+  },
+{
+    "id": 151,
+    "passage": "I was raised by a teacher. My mother is a professor of early education. And from the time I went to kindergarten through my senior year in high school, I went to public schools. I wouldn't trade that education and experience for anything.\n\nI had incredible teachers. As I look at my life today, the things I value most about myself- my imagination, my love of acting, my passion for writing, my love of learning, my curiosity- all come from how I was parented and taught.\n\nAnd none of these qualities that I've just mentioned, none of these qualities that I prize so deeply, that have brought me so much joy, that have brought me so much professional success- none of these qualities that make me who I am can be tested.\n\nI said before that I had incredible teachers. And that's true. But it's more than that. My teachers were EMPOWERED to teach me. Their time wasn't taken up with a bunch of test prep-this silly drill and kill nonsense that any serious person knows doesn't promote real learning.\n\nNo, my teachers were free to approach me and every kid in that classroom like an individual puzzle. They took so much care in figuring out who we were and how best to make the lessons resonate with each of us. They were empowered to unlock our potential. They were allowed to be teachers.",
+    "question": "The writer salutes his teachers for all this EXCEPT:",
+    "options": [
+      "sharpening his imagination",
+      "piquing his curiosity",
+      "honing his creative skills",
+      "disciplining his temperament"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The passage mentions imagination, curiosity, and creative skills (acting, writing), but does not mention anything about the teachers disciplining his temperament."
+  },
+  {
+    "id": 152,
+    "passage": "I was raised by a teacher. My mother is a professor of early education. And from the time I went to kindergarten through my senior year in high school, I went to public schools. I wouldn't trade that education and experience for anything.\n\nI had incredible teachers. As I look at my life today, the things I value most about myself- my imagination, my love of acting, my passion for writing, my love of learning, my curiosity- all come from how I was parented and taught.\n\nAnd none of these qualities that I've just mentioned, none of these qualities that I prize so deeply, that have brought me so much joy, that have brought me so much professional success- none of these qualities that make me who I am can be tested.\n\nI said before that I had incredible teachers. And that's true. But it's more than that. My teachers were EMPOWERED to teach me. Their time wasn't taken up with a bunch of test prep-this silly drill and kill nonsense that any serious person knows doesn't promote real learning.\n\nNo, my teachers were free to approach me and every kid in that classroom like an individual puzzle. They took so much care in figuring out who we were and how best to make the lessons resonate with each of us. They were empowered to unlock our potential. They were allowed to be teachers.",
+    "question": "The literary device used in the line- approached every kid in class ‘like an individual puzzle' is:",
+    "options": [
+      "Metaphor",
+      "Personification",
+      "Simile",
+      "Anaphora"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The use of the word 'like' to compare a kid directly to an individual puzzle indicates the use of a simile."
+  },
+  {
+    "id": 153,
+    "passage": "I was raised by a teacher. My mother is a professor of early education. And from the time I went to kindergarten through my senior year in high school, I went to public schools. I wouldn't trade that education and experience for anything.\n\nI had incredible teachers. As I look at my life today, the things I value most about myself- my imagination, my love of acting, my passion for writing, my love of learning, my curiosity- all come from how I was parented and taught.\n\nAnd none of these qualities that I've just mentioned, none of these qualities that I prize so deeply, that have brought me so much joy, that have brought me so much professional success- none of these qualities that make me who I am can be tested.\n\nI said before that I had incredible teachers. And that's true. But it's more than that. My teachers were EMPOWERED to teach me. Their time wasn't taken up with a bunch of test prep-this silly drill and kill nonsense that any serious person knows doesn't promote real learning.\n\nNo, my teachers were free to approach me and every kid in that classroom like an individual puzzle. They took so much care in figuring out who we were and how best to make the lessons resonate with each of us. They were empowered to unlock our potential. They were allowed to be teachers.",
+    "question": "The extract is a/an ____ of teachers.",
+    "options": [
+      "eulogy",
+      "euphemism",
+      "euphoria",
+      "evaluation"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage is a high tribute or great praise to the writer's teachers, which aligns with the definition of a 'eulogy' (a piece of writing that praises someone highly)."
+  },
+  {
+    "id": 154,
+    "passage": "I was raised by a teacher. My mother is a professor of early education. And from the time I went to kindergarten through my senior year in high school, I went to public schools. I wouldn't trade that education and experience for anything.\n\nI had incredible teachers. As I look at my life today, the things I value most about myself- my imagination, my love of acting, my passion for writing, my love of learning, my curiosity- all come from how I was parented and taught.\n\nAnd none of these qualities that I've just mentioned, none of these qualities that I prize so deeply, that have brought me so much joy, that have brought me so much professional success- none of these qualities that make me who I am can be tested.\n\nI said before that I had incredible teachers. And that's true. But it's more than that. My teachers were EMPOWERED to teach me. Their time wasn't taken up with a bunch of test prep-this silly drill and kill nonsense that any serious person knows doesn't promote real learning.\n\nNo, my teachers were free to approach me and every kid in that classroom like an individual puzzle. They took so much care in figuring out who we were and how best to make the lessons resonate with each of us. They were empowered to unlock our potential. They were allowed to be teachers.",
+    "question": "The writer's teachers were empowered because they :",
+    "options": [
+      "made wonderful tests",
+      "unlocked a student's potential",
+      "curbed a student's curiosity",
+      "worked within strict confines"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage explicitly states, 'They were empowered to unlock our potential.'"
+  },
+  {
+    "id": 155,
+    "passage": "The recently launched Mission ShakthiSAT, is an ambitious initiative that aims to empower young girls worldwide to excel in space science, technology, engineering, and mathematics (STEM). This historic all-girls mission, led by Space Kidz India (SKI), involves a spacecraft journey from lunar-to-lunar orbit and will be part of ISRO's Chandrayaan-4 mission in 2026. Through this mission, SKI seeks to inspire young women to lead in space sciences and demonstrate their potential in STEM fields.\n\nSpace Kidz India has a proven track record, having launched 19 Near Space Launch Vehicles, 3 Suborbital Payloads, and 5 Orbital Satellites. The mission's goal is to provide girls with the opportunity to contribute to an actual space mission and witness their satellite journey to the Moon. Srimathy Kesan, Founder and CEO of SKI, emphasized that Mission ShakthiSAT is about creating a global platform where young women can innovate and lead in space sciences. The mission represents the limitless potential of women and their role in shaping the future of space exploration.\n\nMeridian Space Command, a UK-based company, has partnered with SKI for mission management and in-space transportation. Using its orbital transfer vehicle, Meridian will efficiently transport the orbiter and lander to lunar orbit via PSLV, with a planned crash landing on the Moon.\n\nThe ShaktiSAT programme also includes an online training curriculum on space technology fundamentals, spacecraft systems, and payload development. Following the online courses, 108 girls from 108 countries will be selected to participate in intensive hands-on training in India, where they will collaborate to design, build, and test a satellite for the mission.",
+    "question": "How will the ShaktiSAT mission facilitate global collaboration in space?",
+    "options": [
+      "By involving girl participants from 108 countries, for hands-on training in India.",
+      "By building the first international space station in collaboration with other space agencies.",
+      "By launching individual satellites from all the 108 countries involved.",
+      "By involving 108 countries in funding the ambitious and one of its kind mission."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage states that '108 girls from 108 countries will be selected to participate in intensive hands-on training in India, where they will collaborate to design, build, and test a satellite.'"
+  },
+  {
+    "id": 156,
+    "passage": "The recently launched Mission ShakthiSAT, is an ambitious initiative that aims to empower young girls worldwide to excel in space science, technology, engineering, and mathematics (STEM). This historic all-girls mission, led by Space Kidz India (SKI), involves a spacecraft journey from lunar-to-lunar orbit and will be part of ISRO's Chandrayaan-4 mission in 2026. Through this mission, SKI seeks to inspire young women to lead in space sciences and demonstrate their potential in STEM fields.\n\nSpace Kidz India has a proven track record, having launched 19 Near Space Launch Vehicles, 3 Suborbital Payloads, and 5 Orbital Satellites. The mission's goal is to provide girls with the opportunity to contribute to an actual space mission and witness their satellite journey to the Moon. Srimathy Kesan, Founder and CEO of SKI, emphasized that Mission ShakthiSAT is about creating a global platform where young women can innovate and lead in space sciences. The mission represents the limitless potential of women and their role in shaping the future of space exploration.\n\nMeridian Space Command, a UK-based company, has partnered with SKI for mission management and in-space transportation. Using its orbital transfer vehicle, Meridian will efficiently transport the orbiter and lander to lunar orbit via PSLV, with a planned crash landing on the Moon.\n\nThe ShaktiSAT programme also includes an online training curriculum on space technology fundamentals, spacecraft systems, and payload development. Following the online courses, 108 girls from 108 countries will be selected to participate in intensive hands-on training in India, where they will collaborate to design, build, and test a satellite for the mission.",
+    "question": "What is the primary aim of Mission ShakthiSAT?",
+    "options": [
+      "To launch a satellite to planet Mars",
+      "Empowering young girls to lead and excel in space science",
+      "To develop a new type of spacecraft for deep space missions",
+      "To create a new International Space Station"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage explicitly states that the initiative 'aims to empower young girls worldwide to excel in space science, technology, engineering, and mathematics (STEM).'"
+  },
+  {
+    "id": 157,
+    "passage": "The recently launched Mission ShakthiSAT, is an ambitious initiative that aims to empower young girls worldwide to excel in space science, technology, engineering, and mathematics (STEM). This historic all-girls mission, led by Space Kidz India (SKI), involves a spacecraft journey from lunar-to-lunar orbit and will be part of ISRO's Chandrayaan-4 mission in 2026. Through this mission, SKI seeks to inspire young women to lead in space sciences and demonstrate their potential in STEM fields.\n\nSpace Kidz India has a proven track record, having launched 19 Near Space Launch Vehicles, 3 Suborbital Payloads, and 5 Orbital Satellites. The mission's goal is to provide girls with the opportunity to contribute to an actual space mission and witness their satellite journey to the Moon. Srimathy Kesan, Founder and CEO of SKI, emphasized that Mission ShakthiSAT is about creating a global platform where young women can innovate and lead in space sciences. The mission represents the limitless potential of women and their role in shaping the future of space exploration.\n\nMeridian Space Command, a UK-based company, has partnered with SKI for mission management and in-space transportation. Using its orbital transfer vehicle, Meridian will efficiently transport the orbiter and lander to lunar orbit via PSLV, with a planned crash landing on the Moon.\n\nThe ShaktiSAT programme also includes an online training curriculum on space technology fundamentals, spacecraft systems, and payload development. Following the online courses, 108 girls from 108 countries will be selected to participate in intensive hands-on training in India, where they will collaborate to design, build, and test a satellite for the mission.",
+    "question": "What is the significance of the Chandrayaan-4 mission in relation to ShakthiSAT?",
+    "options": [
+      "It is absolutely unrelated to Mission ShakthiSAT's objectives.",
+      "It will carry the first Indian woman astronaut to the Moon.",
+      "It is going to be the first mission to use the ShaktiSAT spacecraft.",
+      "It's student-built satellite will be launched as part of this mission in 2026"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The passage states that the girls will build a satellite and that the historic all-girls mission 'will be part of ISRO's Chandrayaan-4 mission in 2026.'"
+  },
+  {
+    "id": 158,
+    "passage": "The recently launched Mission ShakthiSAT, is an ambitious initiative that aims to empower young girls worldwide to excel in space science, technology, engineering, and mathematics (STEM). This historic all-girls mission, led by Space Kidz India (SKI), involves a spacecraft journey from lunar-to-lunar orbit and will be part of ISRO's Chandrayaan-4 mission in 2026. Through this mission, SKI seeks to inspire young women to lead in space sciences and demonstrate their potential in STEM fields.\n\nSpace Kidz India has a proven track record, having launched 19 Near Space Launch Vehicles, 3 Suborbital Payloads, and 5 Orbital Satellites. The mission's goal is to provide girls with the opportunity to contribute to an actual space mission and witness their satellite journey to the Moon. Srimathy Kesan, Founder and CEO of SKI, emphasized that Mission ShakthiSAT is about creating a global platform where young women can innovate and lead in space sciences. The mission represents the limitless potential of women and their role in shaping the future of space exploration.\n\nMeridian Space Command, a UK-based company, has partnered with SKI for mission management and in-space transportation. Using its orbital transfer vehicle, Meridian will efficiently transport the orbiter and lander to lunar orbit via PSLV, with a planned crash landing on the Moon.\n\nThe ShaktiSAT programme also includes an online training curriculum on space technology fundamentals, spacecraft systems, and payload development. Following the online courses, 108 girls from 108 countries will be selected to participate in intensive hands-on training in India, where they will collaborate to design, build, and test a satellite for the mission.",
+    "question": "What educational component does the ShaktiSAT programme provide for young girls before their hands-on training?",
+    "options": [
+      "An opportunity to research and study asteroid mining.",
+      "An online training curriculum on space technology fundamentals.",
+      "A practical course on space shuttle piloting.",
+      "An internship program with ISRO."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage states that the program 'includes an online training curriculum on space technology fundamentals, spacecraft systems, and payload development' before the 108 girls are selected for hands-on training."
+  },
+  {
+    "id": 159,
+    "passage": "One afternoon in late June, as the sun shone warmly into the large courtyard, a very elegant Victoria, drawn by two sleek black horses, stopped in front of the mansion. The Countess descended the steps just as her husband, returning home, appeared at the carriage entrance.\n\nThe Count paused, his face turning slightly pale as he observed his wife. She was strikingly beautiful, with her long oval face, an ivory-like complexion, large gray eyes, and jet-black hair. Her graceful and aristocratic demeanour only heightened her appeal.\nWithout sparing him a glance or acknowledging his presence, she entered the carriage with a high-bred air that rekindled the burning jealousy which had long consumed him.\n\nApproaching her, he asked in a measured tone, \"You are going for a drive?\"\n\nShe responded coldly, \"You see I am.\"\n\n\"May I join you?\" he ventured, attempting to mask his unease.\n\n\"The carriage belongs to you,\" she replied disdainfully, her tone cutting and dismissive.\n\nWithout reacting to her hostility, he climbed in and gave the order: \"To the Boulogne Woods\" The footman took his place beside the coachman, and the spirited horses pranced onto the street. Husband and wife sat stiffly side by side in silence, the tension between them palpable. He hesitated, seeking a way to begin a conversation, but her resolute, icy demeanour held him back.\n\nFinally, as if by accident, his gloved hand brushed hers. She recoiled sharply, her gesture laden with unmistakable disgust. He remained thoughtful, in spite of his usual authoritative and despotic character, and finally said: \"Gabrielle!\"",
+    "question": "What does the Count's behaviour throughout the scene suggest about his personality?",
+    "options": [
+      "He is indifferent and dismissive towards his wife",
+      "He is authoritative and controlling but also vulnerable to jealousy",
+      "He is confident and not bothered about the Countess’s demeanour",
+      "He is carefree and uninterested in his wife's opinions or interests"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage mentions his 'usual authoritative and despotic character' while simultaneously detailing the 'burning jealousy which had long consumed him,' showing he is controlling yet vulnerable to jealousy."
+  },
+  {
+    "id": 160,
+    "passage": "One afternoon in late June, as the sun shone warmly into the large courtyard, a very elegant Victoria, drawn by two sleek black horses, stopped in front of the mansion. The Countess descended the steps just as her husband, returning home, appeared at the carriage entrance.\n\nThe Count paused, his face turning slightly pale as he observed his wife. She was strikingly beautiful, with her long oval face, an ivory-like complexion, large gray eyes, and jet-black hair. Her graceful and aristocratic demeanour only heightened her appeal.\nWithout sparing him a glance or acknowledging his presence, she entered the carriage with a high-bred air that rekindled the burning jealousy which had long consumed him.\n\nApproaching her, he asked in a measured tone, \"You are going for a drive?\"\n\nShe responded coldly, \"You see I am.\"\n\n\"May I join you?\" he ventured, attempting to mask his unease.\n\n\"The carriage belongs to you,\" she replied disdainfully, her tone cutting and dismissive.\n\nWithout reacting to her hostility, he climbed in and gave the order: \"To the Boulogne Woods\" The footman took his place beside the coachman, and the spirited horses pranced onto the street. Husband and wife sat stiffly side by side in silence, the tension between them palpable. He hesitated, seeking a way to begin a conversation, but her resolute, icy demeanour held him back.\n\nFinally, as if by accident, his gloved hand brushed hers. She recoiled sharply, her gesture laden with unmistakable disgust. He remained thoughtful, in spite of his usual authoritative and despotic character, and finally said: \"Gabrielle!\"",
+    "question": "Which of the following best describes the atmosphere inside the carriage?",
+    "options": [
+      "Calm and amicable, with exchange of polite conversation",
+      "Tense and silent, filled with unresolved emotions",
+      "Cheerful, light and lively, with both sharing an easy camaraderie",
+      "Toxic but hopeful, with efforts at reconciliation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The text describes the atmosphere explicitly: 'Husband and wife sat stiffly side by side in silence, the tension between them palpable.'"
+  },
+  {
+    "id": 161,
+    "passage": "One afternoon in late June, as the sun shone warmly into the large courtyard, a very elegant Victoria, drawn by two sleek black horses, stopped in front of the mansion. The Countess descended the steps just as her husband, returning home, appeared at the carriage entrance.\n\nThe Count paused, his face turning slightly pale as he observed his wife. She was strikingly beautiful, with her long oval face, an ivory-like complexion, large gray eyes, and jet-black hair. Her graceful and aristocratic demeanour only heightened her appeal.\nWithout sparing him a glance or acknowledging his presence, she entered the carriage with a high-bred air that rekindled the burning jealousy which had long consumed him.\n\nApproaching her, he asked in a measured tone, \"You are going for a drive?\"\n\nShe responded coldly, \"You see I am.\"\n\n\"May I join you?\" he ventured, attempting to mask his unease.\n\n\"The carriage belongs to you,\" she replied disdainfully, her tone cutting and dismissive.\n\nWithout reacting to her hostility, he climbed in and gave the order: \"To the Boulogne Woods\" The footman took his place beside the coachman, and the spirited horses pranced onto the street. Husband and wife sat stiffly side by side in silence, the tension between them palpable. He hesitated, seeking a way to begin a conversation, but her resolute, icy demeanour held him back.\n\nFinally, as if by accident, his gloved hand brushed hers. She recoiled sharply, her gesture laden with unmistakable disgust. He remained thoughtful, in spite of his usual authoritative and despotic character, and finally said: \"Gabrielle!\"",
+    "question": "What characteristic of the Countess reignited the count's jealousy?",
+    "options": [
+      "her dismissive response to his question",
+      "her elegance and aristocratic demeanour",
+      "her choice of the Bois de Boulogne as the destination",
+      "her sharp tone when speaking to the coachman."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The text states that 'Her graceful and aristocratic demeanour only heightened her appeal' and she entered the carriage with a 'high-bred air that rekindled the burning jealousy'."
+  },
+  {
+    "id": 162,
+    "passage": "One afternoon in late June, as the sun shone warmly into the large courtyard, a very elegant Victoria, drawn by two sleek black horses, stopped in front of the mansion. The Countess descended the steps just as her husband, returning home, appeared at the carriage entrance.\n\nThe Count paused, his face turning slightly pale as he observed his wife. She was strikingly beautiful, with her long oval face, an ivory-like complexion, large gray eyes, and jet-black hair. Her graceful and aristocratic demeanour only heightened her appeal.\nWithout sparing him a glance or acknowledging his presence, she entered the carriage with a high-bred air that rekindled the burning jealousy which had long consumed him.\n\nApproaching her, he asked in a measured tone, \"You are going for a drive?\"\n\nShe responded coldly, \"You see I am.\"\n\n\"May I join you?\" he ventured, attempting to mask his unease.\n\n\"The carriage belongs to you,\" she replied disdainfully, her tone cutting and dismissive.\n\nWithout reacting to her hostility, he climbed in and gave the order: \"To the Boulogne Woods\" The footman took his place beside the coachman, and the spirited horses pranced onto the street. Husband and wife sat stiffly side by side in silence, the tension between them palpable. He hesitated, seeking a way to begin a conversation, but her resolute, icy demeanour held him back.\n\nFinally, as if by accident, his gloved hand brushed hers. She recoiled sharply, her gesture laden with unmistakable disgust. He remained thoughtful, in spite of his usual authoritative and despotic character, and finally said: \"Gabrielle!\"",
+    "question": "Match the words used in the passage in List-I with their meanings in List-II\n\nList–I (Words)\n(A) appeal\n(B) consumed\n(C) palpable\n(D) rekindled\n(E) disdainful\n\nList–II (Meanings)\n(I) contemptuous, dismissive\n(II) filled one with strong feelings, overwhelmed\n(III) revived and awakened again\n(IV) a quality that makes somebody or something interesting\n(V) easily noticed by the mind or senses\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) - (IV), (B) - (II), (C) - (III), (D) - (I) ,(E)- (V)",
+      "(A) - (IV), (B) - (I), (C) - (V), (D) - (III), (E)-(II)",
+      "(A) - (I), (B) - (II), (C) - (IV), (D) - (III), (E)-(V)",
+      "(A) - (IV), (B) - (II), (C) - (V), (D) - (III), (E)- (I)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Appeal' means attractiveness (IV). 'Consumed' means overwhelmed by emotion (II). 'Palpable' means easily noticed or perceived (V). 'Rekindled' means revived (III). 'Disdainful' means contemptuous (I)."
+  },
+  {
+    "id": 163,
+    "passage": "",
+    "question": "Select the correct antonym of the underlined word from the options given below:\n\nRadha is known for her lackasdaisical attitude but her ‘avid’ interest in the project has surprised one and all.",
+    "options": [
+      "eager",
+      "assertive",
+      "aural",
+      "averse"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Avid' means having a keen interest or enthusiasm for something. Its antonym is 'averse', which means having a strong dislike or opposition to something."
+  },
+  {
+    "id": 164,
+    "passage": "",
+    "question": "Select the most appropriate antonym for the word \"lament.\"",
+    "options": [
+      "rejoice",
+      "approve",
+      "commiserate",
+      "abate"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Lament' means to express passionate grief or sorrow. Its opposite is 'rejoice', which means to feel or show great joy."
+  },
+  {
+    "id": 165,
+    "passage": "",
+    "question": "Rearrange the given parts in the correct sequence to form a meaningful sentence.\n\n(A) grammar grows and changes\n(B) correct use of English for the past, present and future\n(C) and there is no such thing as\n(D) In other words\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(B). (A). (C), (D)",
+      "(D). (A). (C). (B)",
+      "(C). (A). (D). (B)",
+      "(A). (B). (D). (C)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The logical sequence is: 'In other words (D), grammar grows and changes (A), and there is no such thing as (C) correct use of English for the past, present and future (B).'"
+  },
+  {
+    "id": 166,
+    "passage": "",
+    "question": "Choose the best option to fill in the blank with the correct phrasal verb.\n\nThe manager asked the team to ___ the research and present their findings by next week.",
+    "options": [
+      "carry off",
+      "carry in",
+      "carry over",
+      "carry out"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Carry out' means to perform or complete a task, which fits perfectly with conducting research."
+  },
+  {
+    "id": 167,
+    "passage": "",
+    "question": "Choose the word similar in meaning to the word-Proclivity",
+    "options": [
+      "Disinterest",
+      "Inclination",
+      "Persistence",
+      "Judgment"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Proclivity' means a tendency or inclination towards a particular thing."
+  },
+  {
+    "id": 168,
+    "passage": "",
+    "question": "Rearrange the given parts in the correct sequence to form a meaningful sentence.\n\n(A) and enabling new innovations that\n(B) various industries, enhancing efficiency\n(C) were once thought impossible\n(D) artificial intelligence is revolutionizing\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A). (D). (B). (C)",
+      "(D). (B). (A). (C)",
+      "(B). (A). (D). (C)",
+      "(C). (B). (D), (A)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct sequence is: 'Artificial intelligence is revolutionizing (D) various industries, enhancing efficiency (B) and enabling new innovations that (A) were once thought impossible (C).'"
+  },
+  {
+    "id": 169,
+    "passage": "",
+    "question": "Match the words in List-I with their definitions in List-II\n\nList-I (Words)\n(A) Convalescence\n(B) Euphoria\n(C) Verisimilitude\n(D) Oblivion\n\nList-II (Meanings)\n(I) A state of having passed out of the memory, or being forgotten\n(II) A period of time when you get well again after an illness or medical operation\n(III) A strong feeling of happiness and excitement that usually lasts only a short time\n(IV) Appearing true or real\n\nChoose the correct answer from the options given below:.",
+    "options": [
+      "(A) - (II), (B) - (III), (C) - (IV), (D) - (I)",
+      "(A) - (II), (B) - (IV), (C) - (I), (D) - (III)",
+      "(A) - (III), (B) - (II), (C) - (IV), (D) - (I)",
+      "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Convalescence is the recovery period after illness (II). Euphoria is intense happiness (III). Verisimilitude is the appearance of being true or real (IV). Oblivion is the state of being forgotten (I)."
+  },
+  {
+    "id": 170,
+    "passage": "",
+    "question": "Match the figures of speech in List-I with their meanings in List-II\n\nList-I (Figures of Speech)\n(A) Alliteration\n(B) Onomatopoeia\n(C) Oxymoron\n(D) Irony\n\nList-II (Meanings)\n(I) A phrase that combines contradictory words\n(II) A contrast between what is said and what is meant\n(III) Repetition of initial consonant sound in close succession\n(IV) Words that imitate natural sounds\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) - (II), (B) - (III), (C) - (IV), (D) - (I)",
+      "(A) - (IV), (B) - (III), (C) - (I), (D) - (II)",
+      "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)",
+      "(A) - (I), (B) - (III), (C) - (II), (D) - (IV)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Alliteration is repetition of initial consonants (III). Onomatopoeia uses words imitating sounds (IV). Oxymoron pairs contradictory terms (I). Irony contrasts intended meaning with literal words (II)."
+  },
+  {
+    "id": 171,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank.\n\nSome of the people ____ to the party can't come.",
+    "options": [
+      "invites",
+      "inviting",
+      "who were invited",
+      "they were invited"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The sentence needs a relative clause in the passive voice: 'who were invited'. 'Some of the people who were invited to the party can't come.'"
+  },
+  {
+    "id": 172,
+    "passage": "",
+    "question": "Match the idioms given in List-I with their meanings given in List-II\n\nList-I (Idiom)\n(A) Off the top of one's head\n(B) Take issue with\n(C) Pay lip service to\n(D) Keep one's head\n\nList-II (Meaning)\n(I) to pretend to agree with\n(II) to remain calm and sensible\n(III) without much thought about correctness\n(IV) to disagree with\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) - (II), (B) - (III), (C) - (IV), (D) - (I)",
+      "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)",
+      "(A) - (II), (B) - (I), (C) - (IV), (D) - (III)",
+      "(A) - (IV), (B) - (III), (C) - (I), (D) - (II)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Off the top of one's head' means without careful thought (III). 'Take issue with' means to disagree (IV). 'Pay lip service' means insincere agreement (I). 'Keep one's head' means remaining calm (II)."
+  },
+  {
+    "id": 173,
+    "passage": "",
+    "question": "Choose the best option to fill in the blank with the correct phrasal verb.\n\nShe was upset when she found out that her manuscript had been ____ by the publisher.",
+    "options": [
+      "turned down",
+      "turned in",
+      "turned over",
+      "turned out"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Turned down' means rejected, which fits the context of a manuscript being refused by a publisher, causing the author to be upset."
+  },
+  {
+    "id": 174,
+    "passage": "",
+    "question": "Rearrange the given parts in the correct sequence to form a meaningful sentence.\n\n(A) long-term psychological impact\n(B) affecting teenagers, leading to severe emotional\n(C) cyberbullying has become a grave issue\n(D) distress, social isolation, and in some cases\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A). (D). (B). (C)",
+      "(D). (B). (A). (C)",
+      "(B). (A). (D). (C)",
+      "(C). (B). (D). (A)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The logical order is: 'Cyberbullying has become a grave issue (C) affecting teenagers, leading to severe emotional (B) distress, social isolation, and in some cases (D) long-term psychological impact (A).'"
+  },
+  {
+    "id": 175,
+    "passage": "",
+    "question": "Identify the option closest in meaning to the underlined word:\n\nHer presence was acknowledged with a ‘perfunctory’ smile.",
+    "options": [
+      "indifferent",
+      "enthusiastic",
+      "beaming",
+      "hostile"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Perfunctory' means an action carried out with minimal effort or reflection, often lacking enthusiasm. 'Indifferent' is the closest in meaning."
+  },
+  {
+    "id": 176,
+    "passage": "",
+    "question": "Complete the sentences given in List-I with the appropriate adverbs given in List-II\n\nList-I (Sentences)\n(A) I ________ drive after sunset.\n(B) She has been ________ absenting herself from the office.\n(C) The train will arrive ________.\n(D) I am ________ satisfied with her conduct.\n\nList-II (Adverbs)\n(I) shortly\n(II) seldom\n(III) much\n(IV) frequently\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) - (II), (B) - (IV), (C) - (I), (D) - (III)",
+      "(A) - (I), (B) - (III), (C) - (II), (D) - (IV)",
+      "(A) - (III), (B) - (II), (C) - (IV), (D) - (I)",
+      "(A) - (IV), (B) - (III), (C) - (I), (D) - (II)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One 'seldom' drives after sunset (II). Someone is 'frequently' absent (IV). A train will arrive 'shortly' (I). One is 'much' satisfied (III)."
+  },
+  {
+    "id": 177,
+    "passage": "",
+    "question": "Select the correct antonym of the underlined word from the options given below:\n\nThere was a common belief that the resignation of the financial director would put the company in a very ‘vulnerable’ position.",
+    "options": [
+      "vernacular",
+      "familiar",
+      "invincible",
+      "voracious"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Vulnerable' means susceptible to physical or emotional attack or harm. Its antonym is 'invincible', meaning too powerful to be defeated or overcome."
+  },
+  {
+    "id": 178,
+    "passage": "",
+    "question": "Rearrange the given parts in the correct sequence to form a meaningful sentence.\n\n(A) the balance of nature and ensuring that\n(B) conserving wildlife is essential to maintaining\n(C) the beauty of diverse animal species\n(D) future generations can experience\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(D). (A). (C). (B)",
+      "(A). (D). (C). (B)",
+      "(B). (A). (D). (C)",
+      "(C). (B). (D). (A)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct sequence is: 'Conserving wildlife is essential to maintaining (B) the balance of nature and ensuring that (A) future generations can experience (D) the beauty of diverse animal species (C).'"
+  },
+  {
+    "id": 179,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n\n(A) library, dust motes swirled in beams of golden\n(B) within the fragile, timeworn pages\n(C) in the hushed stillness of the abandoned\n(D) light, guarding the untold stories locked",
+    "options": [
+      "(B), (C), (A), (D)",
+      "(C), (D), (A), (B)",
+      "(B), (A), (D), (C)",
+      "(C), (A), (D), (B)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The meaningful order is: 'In the hushed stillness of the abandoned (C) library, dust motes swirled in beams of golden (A) light, guarding the untold stories locked (D) within the fragile, timeworn pages (B).'"
+  },
+  {
+    "id": 180,
+    "passage": "",
+    "question": "Select the most appropriate word to fill in the blank in the following sentence.\n\nThere ___ to be serious flaws in the design.",
+    "options": [
+      "claimed",
+      "reported",
+      "were said",
+      "were told"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct passive construction is 'were said'. The sentence means 'People said there were serious flaws.' Thus, 'There were said to be serious flaws' is grammatically correct."
+  },
+  {
+    "id": 181,
+    "passage": "",
+    "question": "Fill in the blanks in List-I with the correct homonyms from List-II.\n\nList-I (Sentences)\n(A) Honesty is a core _________.\n(B) The ________ of the school addressed the students during the assembly.\n(C) The car remained ________ in the parking lot.\n(D) I bought new ________ like pens and notebooks for the new term.\n\nList-II (Words)\n(I) stationary\n(II) stationery\n(III) principal\n(IV) principle\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) – (IV), (B) – (III), (C) – (I), (D) – (II)",
+      "(A) – (I), (B) – (II), (C) – (III), (D) – (IV)",
+      "(A) – (II), (B) – (I), (C) – (IV), (D) – (III)",
+      "(A) – (III), (B) – (IV), (C) – (I), (D) – (II)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A core value is a 'principle' (IV). The head of a school is a 'principal' (III). Not moving is 'stationary' (I). Writing materials are 'stationery' (II)."
+  },
+  {
+    "id": 182,
+    "passage": "",
+    "question": "Fill in the blank with the appropriate option:\n\nThe idiom ‘To Take a rain check’ means ______.",
+    "options": [
+      "to keep something until one needs it",
+      "postpone an invitation until a time in the future",
+      "to feel in good form or in good health",
+      "come to a state of crisis when urgent action is needed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'To take a rain check' means to politely decline an offer or invitation now, with the implication that you will accept it at a later date."
+  },
+  {
+    "id": 183,
+    "passage": "",
+    "question": "Match the blanks in List-I with the appropriate phrases in List-II\n\nList-I (Sentences)\n(A) As a member of the army, he felt proud fighting ____ his country.\n(B) The company suffered great losses ____ his negligence.\n(C) The queen abdicated her throne ____ her son.\n(D) I can't just ____ whatever you are planning.\n\nList-II (Phrases)\n(I) on behalf of\n(II) in favour of\n(III) on account of\n(IV) go along with\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) – (I), (B) – (II), (C) – (III), (D) – (IV)",
+      "(A) – (I), (B) – (III), (C) – (II), (D) – (IV)",
+      "(A) – (I), (B) – (III), (C) – (IV), (D) – (II)",
+      "(A) – (III), (B) – (IV), (C) – (I), (D) – (II)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Fighting 'on behalf of' a country (I). Losses 'on account of' (due to) negligence (III). Abdicating 'in favour of' a son (II). Can't 'go along with' (agree/participate in) a plan (IV)."
+  },
+  {
+    "id": 184,
+    "passage": "",
+    "question": "Choose the word closest in meaning to the word - salubrious from the options given below.",
+    "options": [
+      "irritable",
+      "opinionated",
+      "pleasant",
+      "worthy"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Salubrious' means health-giving or pleasant, making 'pleasant' the closest synonym among the choices."
+  },
+  {
+    "id": 185,
+    "passage": "",
+    "question": "Complete the sentences given in List-I with the correct pair given in List-II\n\nList-I (Sentences)\n(A) I know I'm ____ in my 40s, but I _____ imagined that I would need glasses.\n(B) I _____ kept trying to read the newspaper by holding it ___ away.\n(C) I really had to decide whether to get ___ arms or a pair of ___ glasses.\n(D) _______, I chose the _______ solution.\n\nList-II (Options)\n(I) just / further\n(II) eventually / easier\n(III) already / never\n(IV) longer / reading\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) – (III), (B) – (I), (C) – (IV), (D) – (II)",
+      "(A) – (I), (B) – (IV), (C) – (II), (D) – (III)",
+      "(A) – (III), (B) – (II), (C) – (IV), (D) – (I)",
+      "(A) – (II), (B) – (III), (C) – (I), (D) – (IV)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'already / never' fits A. 'just / further' fits B. 'longer / reading' fits C. 'Eventually / easier' fits D logically."
+  },
+  {
+    "id": 186,
+    "passage": "",
+    "question": "Rearrange the given parts in the correct sequence to form a meaningful sentence.\n\n(A) after winning the prize they often publish less frequently\n(B) studies of Nobel laureates show that\n(C) or encounter professional envy and rivalry\n(D) and have strained relations with friends and colleagues\n\nChoose the correct answer from the options given below.",
+    "options": [
+      "(B), (A), (D), (C)",
+      "(D), (A), (B), (C)",
+      "(A), (C), (B), (D)",
+      "(C), (D), (B), (A)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence forms logically as: 'Studies of Nobel laureates show that (B) after winning the prize they often publish less frequently (A) and have strained relations with friends and colleagues (D) or encounter professional envy and rivalry (C).'"
+  },
+  {
+    "id": 187,
+    "passage": "",
+    "question": "Choose the most appropriate word to fill in the blank :\n\nHe ____ madness in order to escape.",
+    "options": [
+      "cited",
+      "feigned",
+      "deferred",
+      "demonstrated"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Feigned' means simulated or pretended. He pretended (feigned) madness to escape."
+  },
+  {
+    "id": 188,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n\n(A) energy from the sun and break down carbon dioxide and water vapor\n(B) easily Nature's biggest achievement comes from her solar energy department,\n(C) to make food,while giving out oxygen as a waste product\n(D) where she has developed plant cells called chloroplast which take light\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(D), (C), (B), (A)",
+      "(A), (B), (C), (D)",
+      "(B), (A), (D), (C)",
+      "(B), (D), (A), (C)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The logical sequence is: 'Easily Nature's biggest achievement comes from her solar energy department, (B) where she has developed plant cells called chloroplast which take light (D) energy from the sun and break down carbon dioxide and water vapor (A) to make food, while giving out oxygen as a waste product (C).'"
+  },
+  {
+    "id": 189,
+    "passage": "",
+    "question": "Choose the most appropriate antonym for the underlined word:\n\nHe is an ‘astute’ observer of human behaviour.",
+    "options": [
+      "ingenuous",
+      "avid",
+      "infamous",
+      "morose"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Astute' means having an ability to accurately assess situations (shrewd). Its opposite is 'ingenuous', which means innocent, unsuspecting, or naive."
+  },
+  {
+    "id": 190,
+    "passage": "",
+    "question": "Fill in the blanks in List-I with the appropriate preposition in List-II\n\nList-I (Sentences)\n(A) Akhila sat quietly ___ her best friend during the entire lecture.\n(B) ___ being an excellent student, Atul is also a talented musician.\n(C) The debate continued ______ the members of the council late into the night.\n(D) The lone traveler stood ______ the towering mountains and the river lost in thought.\n\nList-II (Prepositions)\n(I) besides\n(II) amongst\n(III) between\n(IV) beside\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) - (II), (B) - (III), (C) - (IV), (D) - (I)",
+      "(A) - (I), (B) - (III), (C) - (IV), (D) - (II)",
+      "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+      "(A) - (IV), (B) - (I), (C) - (II), (D) - (III)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Beside' means next to (A-IV). 'Besides' means in addition to (B-I). 'Amongst' is used for a group of people (C-II). 'Between' is used for position among distinct items like mountains (D-III)."
+  },
+  {
+    "id": 191,
+    "passage": "",
+    "question": "Select the most appropriate word to complete the following sentence.\n\nIt's quite a ___ subject, so take care how you bring it up.",
+    "options": [
+      "customary",
+      "deniable",
+      "justified",
+      "delicate"
+    ],
+    "correctAnswer": 4,
+    "explanation": "A 'delicate' subject is a sensitive one that requires tact and careful handling so as not to cause offense or discomfort."
+  },
+  {
+    "id": 192,
+    "passage": "",
+    "question": "Select the most appropriate preposition from the given options to fill in the blank.\n\nThe fact that Kim was offered a job has no connection ____ the fact that her cousin is the Managing Director.",
+    "options": [
+      "for",
+      "with",
+      "behind",
+      "t0"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct preposition to use after 'connection' in this context is 'with'. 'Has no connection with' means it is unrelated to."
+  },
+  {
+    "id": 193,
+    "passage": "",
+    "question": "Match the blanks in List-I with the appropriate phrasal verbs from List-II\n\nList-I (Sentences)\n(A) The draught was so strong that it _______ the candle.\n(B) An argument _______ at the end of the meeting, and it ended on a sour note.\n(C) He was very ill last year, but thank goodness, he has _______.\n(D) The bus _______ sharply at a red light and I lost my balance and fell over.\n\nList-II (Phrasal Verbs)\n(I) pulled through\n(II) pulled up\n(III) blew out\n(IV) blew up\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)",
+      "(A) - (I), (B) - (III), (C) - (II), (D) - (IV)",
+      "(A) - (I), (B) - (II), (C) - (IV), (D) - (III)",
+      "(A) - (IV), (B) - (III), (C) - (I), (D) - (II)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A draught 'blew out' the candle (III). An argument 'blew up' meaning escalated (IV). 'Pulled through' means recovered from a serious illness (I). 'Pulled up' means came to a halt (II)."
+  },
+  {
+    "id": 194,
+    "passage": "",
+    "question": "Choose the word similar in meaning to the word -Lugubrious",
+    "options": [
+      "Doubtful",
+      "Joyful",
+      "Melancholy",
+      "Thorough"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Lugubrious' means looking or sounding sad and dismal. 'Melancholy' is the closest synonym."
+  },
+  {
+    "id": 195,
+    "passage": "",
+    "question": "Select the most appropriate word to fill in the blank.\n\nSomeone who worries too much about small details or rules is said to be ____.",
+    "options": [
+      "Elite",
+      "Highbrow",
+      "Pedantic",
+      "Scholarly"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Pedantic' describes a person who is excessively concerned with minor details and rules or with displaying academic learning."
+  },
+  {
+    "id": 196,
+    "passage": "",
+    "question": "Replace the underlined word in the following sentence with an antonym from the options given:\n\nThe ‘mellifluous’ strains of the song floated into the hall, stirring the complacent emotions of many.",
+    "options": [
+      "euphonic",
+      "mature",
+      "harsh",
+      "doleful"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Mellifluous' means a sound that is sweet and smooth, pleasing to hear. Its antonym is 'harsh', meaning unpleasantly rough or jarring."
+  },
+  {
+    "id": 197,
+    "passage": "",
+    "question": "Select the word closest in meaning to the word- Impertinent.",
+    "options": [
+      "Repentant",
+      "Impolite",
+      "Uncontrite",
+      "Not influenced"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Impertinent' means not showing proper respect, which directly aligns with 'impolite' or rude."
+  },
+  {
+    "id": 198,
+    "passage": "",
+    "question": "Match the proverbs in List-I with the meanings in List-II\n\nList-I (Proverbs)\n(A) A stitch in time saves nine\n(B) Actions speak louder than words\n(C) Rome wasn't built in a day\n(D) Don't count your chickens before they hatch\n\nList-II (Meanings)\n(I) Good deeds are more important than promises\n(II) Great achievements take time\n(III) Don't plan for something that isn't certain\n(IV) Timely action prevents bigger problems\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) - (II), (B) - (I), (C) - (III), (D) - (IV)",
+      "(A) - (IV), (B) - (I), (C) - (II), (D) - (III)",
+      "(A) - (III), (B) - (II), (C) - (IV), (D) - (I)",
+      "(A) - (I), (B) - (IV), (C) - (II), (D) - (III)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'A stitch in time...' implies prompt action prevents worse issues (IV). 'Actions speak louder...' means doing is better than promising (I). 'Rome wasn't built...' means big things take time (II). 'Don't count your chickens...' warns against banking on uncertain outcomes (III)."
+  },
+  {
+    "id": 199,
+    "passage": "",
+    "question": "Select the appropriate option to fill in the blank in the following sentence:\n\nEverything is going well. We____ any problems so far.",
+    "options": [
+      "not have",
+      "haven't",
+      "haven't had",
+      "hadn't had"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The phrase 'so far' requires the present perfect tense. 'We haven't had any problems so far' is grammatically correct."
+  },
+  {
+    "id": 200,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n\n(A) buying choices on the environment they are increasingly\n(B) align with their values, demonstrating a commitment to sustainability\n(C) as consumers become aware of the influence of their\n(D) interested in being associated with brands that\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(B), (C), (A), (D)",
+      "(C), (A), (D), (B)",
+      "(B), (A), (D), (C)",
+      "(C), (B), (A), (D)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct flow is: 'As consumers become aware of the influence of their (C) buying choices on the environment they are increasingly (A) interested in being associated with brands that (D) align with their values, demonstrating a commitment to sustainability (B).'"
+  },
+  {
+    "id": 201,
+    "passage": "Bibi Gulab Kaur was the leader of Ghadar Party in Manila, Philippines. She and her husband Mann Singh sailed from the Philippines to India in order to rally the masses against British tyranny. Besides spreading anti-British public sentiment, she distributed literature relating to freedom movement, arms and ammunition to the members of Ghadar Party. Under sedition charges, she was kept in the notorious Lahore Fort and tortured for two years.\n\nGulab Kaur was born in 1890 in the village of Bakshi Wala in the Sangrur region of Punjab in a poor peasant family. She was married to Mann Singh. This was a time when many Punjabi farmers were expelled from their land by British policy. The couple departed for Manila, Philippines with the intention of emigrating to the United States of America in order to escape economic troubles in their own country.\n\nGulab Kaur joined the fight to oust the British in India and became one of the key Gadhar party members. She travelled around the Philippines in order to organise the Indian citizens. Moreover, she gathered weapons and funds for the party. She mobilised people in Manila and inspired them to join the party by distributing independence literature and delivering inspiring speeches to Indian passengers of ships.",
+    "question": "Gulab Kaur's activities in Philippines included all but:-",
+    "options": [
+      "mobilising people.",
+      "distributing independence literature.",
+      "delivering inspiring speeches.",
+      "visiting popular hot spots."
+    ],
+    "correctAnswer": 4,
+    "explanation": "The passage clearly mentions that she mobilized people, distributed independence literature, and delivered inspiring speeches. There is no mention of her visiting popular hot spots."
+  },
+  {
+    "id": 202,
+    "passage": "Bibi Gulab Kaur was the leader of Ghadar Party in Manila, Philippines. She and her husband Mann Singh sailed from the Philippines to India in order to rally the masses against British tyranny. Besides spreading anti-British public sentiment, she distributed literature relating to freedom movement, arms and ammunition to the members of Ghadar Party. Under sedition charges, she was kept in the notorious Lahore Fort and tortured for two years.\n\nGulab Kaur was born in 1890 in the village of Bakshi Wala in the Sangrur region of Punjab in a poor peasant family. She was married to Mann Singh. This was a time when many Punjabi farmers were expelled from their land by British policy. The couple departed for Manila, Philippines with the intention of emigrating to the United States of America in order to escape economic troubles in their own country.\n\nGulab Kaur joined the fight to oust the British in India and became one of the key Gadhar party members. She travelled around the Philippines in order to organise the Indian citizens. Moreover, she gathered weapons and funds for the party. She mobilised people in Manila and inspired them to join the party by distributing independence literature and delivering inspiring speeches to Indian passengers of ships.",
+    "question": "Choose the correct synonym of the word Sedition as used in the passage.",
+    "options": [
+      "insurrection",
+      "interfere",
+      "impose",
+      "intermediary"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Sedition' means conduct or speech inciting people to rebel against the authority of a state. 'Insurrection', which refers to a violent uprising against an authority or government, is the closest synonym."
+  },
+  {
+    "id": 203,
+    "passage": "Bibi Gulab Kaur was the leader of Ghadar Party in Manila, Philippines. She and her husband Mann Singh sailed from the Philippines to India in order to rally the masses against British tyranny. Besides spreading anti-British public sentiment, she distributed literature relating to freedom movement, arms and ammunition to the members of Ghadar Party. Under sedition charges, she was kept in the notorious Lahore Fort and tortured for two years.\n\nGulab Kaur was born in 1890 in the village of Bakshi Wala in the Sangrur region of Punjab in a poor peasant family. She was married to Mann Singh. This was a time when many Punjabi farmers were expelled from their land by British policy. The couple departed for Manila, Philippines with the intention of emigrating to the United States of America in order to escape economic troubles in their own country.\n\nGulab Kaur joined the fight to oust the British in India and became one of the key Gadhar party members. She travelled around the Philippines in order to organise the Indian citizens. Moreover, she gathered weapons and funds for the party. She mobilised people in Manila and inspired them to join the party by distributing independence literature and delivering inspiring speeches to Indian passengers of ships.",
+    "question": "The real aim behind the destructive act of supplying arms and ammunition to her people was suggestive of Gulab Kaur's:-",
+    "options": [
+      "love for her motherland",
+      "a result of her intrinsic belligerance",
+      "her plan of settling in India",
+      "her plan of avenging upon the Philippines govt."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Gulab Kaur's actions, such as organizing Indian citizens and fighting to 'oust the British in India,' demonstrate her deep patriotism and love for her motherland."
+  },
+  {
+    "id": 204,
+    "passage": "Bibi Gulab Kaur was the leader of Ghadar Party in Manila, Philippines. She and her husband Mann Singh sailed from the Philippines to India in order to rally the masses against British tyranny. Besides spreading anti-British public sentiment, she distributed literature relating to freedom movement, arms and ammunition to the members of Ghadar Party. Under sedition charges, she was kept in the notorious Lahore Fort and tortured for two years.\n\nGulab Kaur was born in 1890 in the village of Bakshi Wala in the Sangrur region of Punjab in a poor peasant family. She was married to Mann Singh. This was a time when many Punjabi farmers were expelled from their land by British policy. The couple departed for Manila, Philippines with the intention of emigrating to the United States of America in order to escape economic troubles in their own country.\n\nGulab Kaur joined the fight to oust the British in India and became one of the key Gadhar party members. She travelled around the Philippines in order to organise the Indian citizens. Moreover, she gathered weapons and funds for the party. She mobilised people in Manila and inspired them to join the party by distributing independence literature and delivering inspiring speeches to Indian passengers of ships.",
+    "question": "Gulab Kaur migrated to the Philippines in search of _____________",
+    "options": [
+      "her true identity.",
+      "like-minded people.",
+      "a safe life for her children.",
+      "economic prosperity."
+    ],
+    "correctAnswer": 4,
+    "explanation": "The passage explicitly states that the couple departed for Manila 'in order to escape economic troubles in their own country', which points to their search for economic prosperity."
+  },
+  {
+    "id": 205,
+    "passage": "Donkeys may be the proverbial beast of burden, and the animal itself has come to symbolise a dimwit, someone of little value. But not all donkeys are created equal. The Halari donkeys, a breed native to Gujarat's Halar region, is not just valued, it is a VVIP.\n\nThe Halari donkey is a source of ‘liquid gold’, with its milk, valued for its distinctive properties, known to have sold for an astounding Rs 5000 to Rs 7000 per litre at some online platforms.\n\nBut this acclaim comes with its own set of challenges. With fewer than 500 Halari donkeys remaining, the primary need is, of course, conservation. But the larger aim is not just increasing their numbers; it's about teaching farmers the best practices, so that they can command premium prices.\n\nRecognising the pressing need for conservation, the National Research Centre on Equines (NRCE) in Bikaner has started a dedicated programme to safeguard these animals. NRCE is also evaluating donkey milk for potential use in skincare products to sustain its value.\n\nThe Halari donkey is not just valued for its milk; its unique characteristics make it particularly valuable for sustainable dairy farming. Their docile nature, combined with their adaptability to various climates, makes them ideal for small-scale farmers. They also have a much lower environmental foot-print, compared to larger livestock, requiring less feed and water. In fact, their grazing habits even help maintain grassland ecosystems.",
+    "question": "The Halari donkey is valuable due to the fact that it:",
+    "options": [
+      "can lead to sustainable farming.",
+      "is self-indulgent in nature.",
+      "is weather-resistant.",
+      "has high food consumption."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage states, 'its unique characteristics make it particularly valuable for sustainable dairy farming' due to lower environmental footprint and adaptable nature."
+  },
+  {
+    "id": 206,
+    "passage": "Donkeys may be the proverbial beast of burden, and the animal itself has come to symbolise a dimwit, someone of little value. But not all donkeys are created equal. The Halari donkeys, a breed native to Gujarat's Halar region, is not just valued, it is a VVIP.\n\nThe Halari donkey is a source of ‘liquid gold’, with its milk, valued for its distinctive properties, known to have sold for an astounding Rs 5000 to Rs 7000 per litre at some online platforms.\n\nBut this acclaim comes with its own set of challenges. With fewer than 500 Halari donkeys remaining, the primary need is, of course, conservation. But the larger aim is not just increasing their numbers; it's about teaching farmers the best practices, so that they can command premium prices.\n\nRecognising the pressing need for conservation, the National Research Centre on Equines (NRCE) in Bikaner has started a dedicated programme to safeguard these animals. NRCE is also evaluating donkey milk for potential use in skincare products to sustain its value.\n\nThe Halari donkey is not just valued for its milk; its unique characteristics make it particularly valuable for sustainable dairy farming. Their docile nature, combined with their adaptability to various climates, makes them ideal for small-scale farmers. They also have a much lower environmental foot-print, compared to larger livestock, requiring less feed and water. In fact, their grazing habits even help maintain grassland ecosystems.",
+    "question": "The donkey is not commonly accepted as:",
+    "options": [
+      "a dimwit",
+      "a beast of burden",
+      "a parasite",
+      "useless"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The passage mentions that donkeys symbolize a 'dimwit', a 'beast of burden', and 'someone of little value' (useless). It does not describe them as a parasite."
+  },
+  {
+    "id": 207,
+    "passage": "Donkeys may be the proverbial beast of burden, and the animal itself has come to symbolise a dimwit, someone of little value. But not all donkeys are created equal. The Halari donkeys, a breed native to Gujarat's Halar region, is not just valued, it is a VVIP.\n\nThe Halari donkey is a source of ‘liquid gold’, with its milk, valued for its distinctive properties, known to have sold for an astounding Rs 5000 to Rs 7000 per litre at some online platforms.\n\nBut this acclaim comes with its own set of challenges. With fewer than 500 Halari donkeys remaining, the primary need is, of course, conservation. But the larger aim is not just increasing their numbers; it's about teaching farmers the best practices, so that they can command premium prices.\n\nRecognising the pressing need for conservation, the National Research Centre on Equines (NRCE) in Bikaner has started a dedicated programme to safeguard these animals. NRCE is also evaluating donkey milk for potential use in skincare products to sustain its value.\n\nThe Halari donkey is not just valued for its milk; its unique characteristics make it particularly valuable for sustainable dairy farming. Their docile nature, combined with their adaptability to various climates, makes them ideal for small-scale farmers. They also have a much lower environmental foot-print, compared to larger livestock, requiring less feed and water. In fact, their grazing habits even help maintain grassland ecosystems.",
+    "question": "Identify the literary device used in the following sentence.\nHalari donkey's milk is ‘liquid gold’.",
+    "options": [
+      "Imagery",
+      "Pun",
+      "Metaphor",
+      "Allusion"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Calling the milk 'liquid gold' is a direct comparison between two unlike things without using 'like' or 'as', which is the definition of a metaphor."
+  },
+  {
+    "id": 208,
+    "passage": "Donkeys may be the proverbial beast of burden, and the animal itself has come to symbolise a dimwit, someone of little value. But not all donkeys are created equal. The Halari donkeys, a breed native to Gujarat's Halar region, is not just valued, it is a VVIP.\n\nThe Halari donkey is a source of ‘liquid gold’, with its milk, valued for its distinctive properties, known to have sold for an astounding Rs 5000 to Rs 7000 per litre at some online platforms.\n\nBut this acclaim comes with its own set of challenges. With fewer than 500 Halari donkeys remaining, the primary need is, of course, conservation. But the larger aim is not just increasing their numbers; it's about teaching farmers the best practices, so that they can command premium prices.\n\nRecognising the pressing need for conservation, the National Research Centre on Equines (NRCE) in Bikaner has started a dedicated programme to safeguard these animals. NRCE is also evaluating donkey milk for potential use in skincare products to sustain its value.\n\nThe Halari donkey is not just valued for its milk; its unique characteristics make it particularly valuable for sustainable dairy farming. Their docile nature, combined with their adaptability to various climates, makes them ideal for small-scale farmers. They also have a much lower environmental foot-print, compared to larger livestock, requiring less feed and water. In fact, their grazing habits even help maintain grassland ecosystems.",
+    "question": "The passage highlights the fact that the need of the hour is:",
+    "options": [
+      "to find newer sources of milk.",
+      "conservation of Halari donkeys.",
+      "to boost milk consumption.",
+      "to make high value skin-care products."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The text specifically states: 'With fewer than 500 Halari donkeys remaining, the primary need is, of course, conservation.'"
+  },
+  {
+    "id": 209,
+    "passage": "The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking from Bramblehurst railway station, carrying a little black portmanteau in his thickly gloved hand. He was wrapped up from head to foot, and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose; the snow had piled itself against his shoulders and chest, and added a white crest to the burden he carried. He staggered into the ‘Coach and Horses’ more dead than alive, and flung his portmanteau down. “A fire,” he cried, “in the name of human charity! A room and a fire!” He stamped and shook the snow off from himself in the bar, and followed Mrs. Hall into her guest parlour to strike his bargain. And with that much introduction, and a couple of sovereigns flung upon the table, he took up his quarters in the inn.\n\nMrs. Hall lit the fire and left him there while she went to prepare him a meal with her own hands. A guest to stop at Iping in winter time was an unheard-of piece of luck, let alone a guest who was no “haggler,” and she was resolved to show herself worthy of her good fortune.",
+    "question": "Complete the sentence with the appropriate option:-\nAll these indicate the cold weather conditions except________ .",
+    "options": [
+      "there was a biting wind",
+      "it was snowing",
+      "the stranger wore thick gloves",
+      "the stranger carried a black portmanteau"
+    ],
+    "correctAnswer": 4,
+    "explanation": "A biting wind, snowing, and wearing thick gloves are all clear indicators of freezing winter weather. Carrying a black portmanteau (a type of suitcase) does not indicate weather conditions."
+  },
+  {
+    "id": 210,
+    "passage": "The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking from Bramblehurst railway station, carrying a little black portmanteau in his thickly gloved hand. He was wrapped up from head to foot, and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose; the snow had piled itself against his shoulders and chest, and added a white crest to the burden he carried. He staggered into the ‘Coach and Horses’ more dead than alive, and flung his portmanteau down. “A fire,” he cried, “in the name of human charity! A room and a fire!” He stamped and shook the snow off from himself in the bar, and followed Mrs. Hall into her guest parlour to strike his bargain. And with that much introduction, and a couple of sovereigns flung upon the table, he took up his quarters in the inn.\n\nMrs. Hall lit the fire and left him there while she went to prepare him a meal with her own hands. A guest to stop at Iping in winter time was an unheard-of piece of luck, let alone a guest who was no “haggler,” and she was resolved to show herself worthy of her good fortune.",
+    "question": "The apparent mood of the ‘stranger’ was one of:-",
+    "options": [
+      "melancholy",
+      "optimism",
+      "annoyance",
+      "amusement"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The stranger flinging his bag down and frantically crying out for a fire 'in the name of human charity!' reveals a state of desperation and annoyance due to the harsh elements."
+  },
+  {
+    "id": 211,
+    "passage": "The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking from Bramblehurst railway station, carrying a little black portmanteau in his thickly gloved hand. He was wrapped up from head to foot, and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose; the snow had piled itself against his shoulders and chest, and added a white crest to the burden he carried. He staggered into the ‘Coach and Horses’ more dead than alive, and flung his portmanteau down. “A fire,” he cried, “in the name of human charity! A room and a fire!” He stamped and shook the snow off from himself in the bar, and followed Mrs. Hall into her guest parlour to strike his bargain. And with that much introduction, and a couple of sovereigns flung upon the table, he took up his quarters in the inn.\n\nMrs. Hall lit the fire and left him there while she went to prepare him a meal with her own hands. A guest to stop at Iping in winter time was an unheard-of piece of luck, let alone a guest who was no “haggler,” and she was resolved to show herself worthy of her good fortune.",
+    "question": "What ‘good fortune’ has struck Mrs.Hall?",
+    "options": [
+      "A guest who did not haggle for fire and home-cooked food.",
+      "To have an occupant in her guest house during the off-season.",
+      "She finally got an opportunity to make a meal with her own hands.",
+      "The guest was ready to strike a good bargain."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage states that 'A guest to stop at Iping in winter time was an unheard-of piece of luck'. Getting a customer during the harsh winter (off-season) is her good fortune."
+  },
+  {
+    "id": 212,
+    "passage": "The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking from Bramblehurst railway station, carrying a little black portmanteau in his thickly gloved hand. He was wrapped up from head to foot, and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose; the snow had piled itself against his shoulders and chest, and added a white crest to the burden he carried. He staggered into the ‘Coach and Horses’ more dead than alive, and flung his portmanteau down. “A fire,” he cried, “in the name of human charity! A room and a fire!” He stamped and shook the snow off from himself in the bar, and followed Mrs. Hall into her guest parlour to strike his bargain. And with that much introduction, and a couple of sovereigns flung upon the table, he took up his quarters in the inn.\n\nMrs. Hall lit the fire and left him there while she went to prepare him a meal with her own hands. A guest to stop at Iping in winter time was an unheard-of piece of luck, let alone a guest who was no “haggler,” and she was resolved to show herself worthy of her good fortune.",
+    "question": "Mrs. Hall makes a meal for the guest with her own hands because she is feeling:-",
+    "options": [
+      "overjoyed",
+      "overwhelmed",
+      "despondent",
+      "apprehensive"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mrs. Hall considered it an 'unheard-of piece of luck' to have a guest and was determined to 'show herself worthy of her good fortune', demonstrating her sheer joy and delight (overjoyed)."
+  },
+  {
+    "id": 213,
+    "passage": "",
+    "question": "Match the words given in List-I with their meanings given in List-II:-\n\nList-I (Words)\n(A) Maxim\n(B) Pedagogy\n(C) Instigate\n(D) Pellet\n\nList-II (Meanings)\n(I) study of the art of teaching\n(II) cause something bad to happen\n(III) small hard ball of anything\n(IV) an established principle\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) – (III), (B) – (II), (C) – (I), (D) – (IV)",
+      "(A) – (IV), (B) – (I), (C) – (II), (D) – (III)",
+      "(A) – (IV), (B) – (I), (C) – (III), (D) – (II)",
+      "(A) – (I), (B) – (IV), (C) – (III), (D) – (II)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A 'maxim' is a general truth or rule of conduct (IV). 'Pedagogy' is the method and practice of teaching (I). To 'instigate' is to bring about or initiate, often something bad (II). A 'pellet' is a small, hard ball (III)."
+  },
+  {
+    "id": 214,
+    "passage": "",
+    "question": "Choose the correct antonym of the underlined word from the options given below:-\n\nThe ‘grim’ look on her face was anything but encouraging.",
+    "options": [
+      "benign",
+      "stern",
+      "grotesque",
+      "appalling"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Grim' means forbidding, uninviting, or stern. The antonym is 'benign', which means gentle, kind, or friendly."
+  },
+  {
+    "id": 215,
+    "passage": "",
+    "question": "Choose the correct word to fill in the blank in the given sentence:-\n\nDue to peer pressure, children are spending ______ amount on branded clothes.",
+    "options": [
+      "exorbitant",
+      "exotic",
+      "exquisite",
+      "expository"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The word 'exorbitant' means unreasonably high. It is the perfect adjective to describe spending an excessive amount of money."
+  },
+  {
+    "id": 216,
+    "passage": "",
+    "question": "Identify the option closest in meaning to the underlined word from the options given below:-\n\nWilliam Wordsworth said that poetry is a recollection of thoughts in 'tranquility'.",
+    "options": [
+      "leisure",
+      "serenity",
+      "excitement",
+      "retaliation"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Tranquility' means the quality or state of being calm. 'Serenity' is the closest synonym."
+  },
+  {
+    "id": 217,
+    "passage": "",
+    "question": "Match the idioms given in List-I with their meanings given in List-II:-\n\nList-I (Idioms)\n(A) Chalk and cheese\n(B) A chip off the old block\n(C) Between the devil and the deep blue sea\n(D) Rustle something up\n\nList-II (Meanings)\n(I) faced with a choice between two risky courses of action\n(II) to get or make something quickly\n(III) very different\n(IV) someone who is very like one of his parents in personality\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(I), (B)-(III), (C)-(II), (D)-(IV)",
+      "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+      "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+      "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Chalk and cheese' means fundamentally different (III). 'A chip off the old block' means resembling a parent (IV). 'Between the devil and the deep blue sea' means choosing between two undesirable situations (I). 'Rustle up' means making food quickly (II)."
+  },
+  {
+    "id": 218,
+    "passage": "",
+    "question": "Fill in the blank with the correct option to complete the simile:-\n\nAs brittle as _______ .",
+    "options": [
+      "coal",
+      "glass",
+      "iron",
+      "stone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'As brittle as glass' is a common English simile indicating that something is highly prone to breaking or shattering."
+  },
+  {
+    "id": 219,
+    "passage": "",
+    "question": "Fill in the blanks in the sentences given in List-I with the appropriate phrasal verbs given in List-II:-\n\nList-I (Sentences)\n(A) People got ______ by both the candidates during the election campaign.\n(B) He was asked to ______ the project before the deadline.\n(C) You will have to ______ this loss.\n(D) I shall ______ you through thick and thin.\n\nList-II (Phrasal verbs)\n(I) make good for\n(II) stand by\n(III) wrap up\n(IV) turned off\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+      "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+      "(A)-(I), (B)-(III), (C)-(IV), (D)-(II)",
+      "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "People get 'turned off' (lose interest) by politicians (A-IV). To 'wrap up' a project means to complete it (B-III). To 'make good for' means to compensate for a loss (C-I). To 'stand by' someone means to remain loyal (D-II)."
+  },
+  {
+    "id": 220,
+    "passage": "",
+    "question": "Rearrange the following phrases in the right sequence to form a meaningful sentence:-\n\n(A) the experts were able to infer\n(B) although partially destroyed\n(C) the treasure was buried in the cave\n(D) from what remained that\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(A), (B), (D), (C)",
+      "(D), (B), (C), (A)",
+      "(B), (C), (D), (A)",
+      "(B), (A), (D), (C)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct logical sequence is: 'Although partially destroyed, (B) the experts were able to infer (A) from what remained that (D) the treasure was buried in the cave (C).'"
+  },
+  {
+    "id": 221,
+    "passage": "",
+    "question": "Rearrange the following phrases in the right sequence to form a meaningful sentence:-\n\n(A) the examination, the invigilator\n(B) or indulging in any other malpractices\n(C) just before the commencement of\n(D) instructed us to refrain from copying\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(C), (A), (D), (B)",
+      "(A), (D), (C), (B)",
+      "(D), (A), (B), (C)",
+      "(B), (C), (D), (A)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The proper chronological and grammatical order is: 'Just before the commencement of (C) the examination, the invigilator (A) instructed us to refrain from copying (D) or indulging in any other malpractices (B).'"
+  },
+  {
+    "id": 222,
+    "passage": "",
+    "question": "Fill in the blanks in the given sentences in List-I with the appropriate phrasal verbs given in List-II:-\n\nList-I (Sentences)\n(A) He promised to ______ the matter.\n(B) We would finish the work faster if everyone ______ .\n(C) I will surely ______ a new hobby during the summer break.\n(D) The ______ of company's fortunes after the new CFO took over is evident from the quarterly report.\n\nList-II (Phrasal verbs)\n(I) take up\n(II) turn around\n(III) look into\n(IV) pitches in\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(A) - (II), (B) - (I), (C) - (III), (D) - (IV)",
+      "(A) - (IV), (B) - (II), (C) - (III), (D) - (I)",
+      "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)",
+      "(A) - (I), (B) - (IV), (C) - (III), (D) - (II)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "To investigate a matter is to 'look into' it (A-III). Helping out is when everyone 'pitches in' (B-IV). To start a hobby is to 'take up' (C-I). A massive positive change in business is a 'turn around' (D-II)."
+  },
+  {
+    "id": 223,
+    "passage": "",
+    "question": "Identify the word closest in meaning to the underlined word from the options given below:-\n\nThe ‘acrimonious’ scenes at the board meeting depicted the members in a poor light.",
+    "options": [
+      "amiable",
+      "rancorous",
+      "energetic",
+      "humorous"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Acrimonious' means angry and bitter in speech or behavior. The closest synonym is 'rancorous', which describes bitterness and resentment."
+  },
+  {
+    "id": 224,
+    "passage": "",
+    "question": "Rearrange the following phrases in the right sequence to form a meaningful sentence:-\n\n(A) in the good books of his employer\n(B) he has not been\n(C) because he lacks honesty\n(D) and can never be\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(A), (D), (C), (B)",
+      "(B), (A), (C), (D)",
+      "(B), (D), (A), (C)",
+      "(C), (A), (D), (B)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The logical sequence is: 'He has not been (B) and can never be (D) in the good books of his employer (A) because he lacks honesty (C).'"
+  },
+  {
+    "id": 225,
+    "passage": "",
+    "question": "Match the idioms given in List-I with their meanings given in List-II:-\n\nList-I (Idioms)\n(A) Packed like sardines\n(B) Make oneself scarce\n(C) A smear campaign\n(D) A slip of the tongue\n\nList-II (Meanings)\n(I) an attempt to damage someone's reputation\n(II) crowded very close together\n(III) something said by mistake\n(IV) to run away or stay away\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(A) - (IV), (B) - (II), (C) - (III), (D) - (I)",
+      "(A) - (III), (B) - (II), (C) - (I), (D) - (IV)",
+      "(A) - (II), (B) - (IV), (C) - (I), (D) - (III)",
+      "(A) - (I), (B) - (IV), (C) - (III), (D) - (II)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "To be 'packed like sardines' is to be tightly crowded (A-II). To 'make oneself scarce' is to leave to avoid trouble (B-IV). A 'smear campaign' is a deliberate attempt to ruin a reputation (C-I). A 'slip of the tongue' is a verbal mistake (D-III)."
+  },
+  {
+    "id": 226,
+    "passage": "",
+    "question": "Choose the correct adjective to describe-\n\nA speech that is almost difficult to follow because the line of argument is very complex.",
+    "options": [
+      "Arduous",
+      "Convoluted",
+      "Gruelling",
+      "Traumatic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Convoluted' refers to an argument, story, or sentence that is extremely complex and difficult to follow."
+  },
+  {
+    "id": 227,
+    "passage": "",
+    "question": "Rearrange the following phrases in the right sequence to form a meaningful sentence:-\n\n(A) freedom is dialogue\n(B) interchange of diverse ideas\n(C) the essence of democratic\n(D) and unhampered\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(D), (B), (C), (A)",
+      "(B), (A), (C), (D)",
+      "(C), (A), (D), (B)",
+      "(A), (B), (D), (C)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The proper sequence is: 'The essence of democratic (C) freedom is dialogue (A) and unhampered (D) interchange of diverse ideas (B).'"
+  },
+  {
+    "id": 228,
+    "passage": "",
+    "question": "Fill in the blank with the correct option to form a meaningful sentence:-\n\nThe convincing but _______ argument of the lawyer led to the accused's acquittal.",
+    "options": [
+      "fatal",
+      "fallacious",
+      "frail",
+      "fair"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word 'but' implies a contrast. Although the argument was convincing to the jury, it was factually flawed or 'fallacious' (based on mistaken belief)."
+  },
+  {
+    "id": 229,
+    "passage": "",
+    "question": "Fill in the blanks in the sentences given in List-I with the appropriate words given in List-II\n\nList-I (Sentences)\n(A) It is ________ for each citizen to pay income tax;\n(B) He is so ______ that there is no point trying to convince him.\n(C) This ______ business house has built many schools and hospitals.\n(D) There is no _______ from the continuing cold spell.\n\nList-II (Words)\n(I) benevolent\n(II) respite\n(III) adamant\n(IV) obligatory\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(A) – (IV), (B) – (III), (C) – (I), (D) – (II)",
+      "(A) – (I), (B) – (III), (C) – (II), (D) – (IV)",
+      "(A) – (II), (B) – (IV), (C) – (I), (D) – (III)",
+      "(A) – (III), (B) – (IV), (C) – (I), (D) – (II)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Paying income tax is mandatory or 'obligatory' (A-IV). Refusing to be persuaded means one is 'adamant' (B-III). Charitable actions describe a 'benevolent' entity (C-I). Relief from something difficult is a 'respite' (D-II)."
+  },
+  {
+    "id": 230,
+    "passage": "",
+    "question": "Identify the word that is opposite in meaning to the word Prolix :-",
+    "options": [
+      "Defiant",
+      "Silent",
+      "Loquacious",
+      "Succinct"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Prolix' refers to speech or writing containing too many words. The direct opposite is 'succinct', which means briefly and clearly expressed."
+  },
+  {
+    "id": 231,
+    "passage": "",
+    "question": "Fill in the blank to complete the sentence:-\n\nThe way they weave carpets in this region is not _____ to the way they are made in the neighboring state.",
+    "options": [
+      "divergent",
+      "diverse",
+      "discrete",
+      "dissimilar"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The idiom 'not dissimilar to' is commonly used to indicate that two things are actually quite similar."
+  },
+  {
+    "id": 232,
+    "passage": "",
+    "question": "Fill in the blank with the correct option to form a meaningful sentence:-\n\nThe baby began to _______ as it was wet and hungry.",
+    "options": [
+      "veil",
+      "vale",
+      "wail",
+      "vial"
+    ],
+    "correctAnswer": 3,
+    "explanation": "'Wail' means to give a cry of pain, grief, or anger, which perfectly fits a hungry and wet baby crying out."
+  },
+  {
+    "id": 233,
+    "passage": "",
+    "question": "Choose the correct synonym of the given word:-\nIrrevocable",
+    "options": [
+      "provisional",
+      "first",
+      "irrefutable",
+      "final"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Irrevocable' means not able to be changed, reversed, or recovered. 'Final' is the closest synonym representing an ultimate, unchangeable state."
+  },
+  {
+    "id": 234,
+    "passage": "",
+    "question": "Rearrange the following phrases in the right sequence to form a meaningful sentence.\n\n(A) to keep their eyes on the ball\n(B) to hold the club lightly\n(C) and not to use too much force\n(D) the instructor told the students\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(B), (A), (C), (D)",
+      "(D), (B), (A), (C)",
+      "(B), (C), (D), (A)",
+      "(C), (A), (D), (B)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The logical structure is: 'The instructor told the students (D) to hold the club lightly (B), to keep their eyes on the ball (A), and not to use too much force (C).'"
+  },
+  {
+    "id": 235,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank in the given sentence:-\n\nHe is a miser _______ he spent lakhs on his daughter's marriage.",
+    "options": [
+      "therefore",
+      "although",
+      "whereas",
+      "nevertheless"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Nevertheless' serves as a conjunctive adverb showing contrast. Despite being a miser, he still managed to spend a lot of money."
+  },
+  {
+    "id": 236,
+    "passage": "",
+    "question": "Choose the correct antonym of the given word from the options given below:-\n\nDissident",
+    "options": [
+      "objector",
+      "rebel",
+      "subversive",
+      "conformist"
+    ],
+    "correctAnswer": 4,
+    "explanation": "A 'dissident' is someone who opposes official policy or accepted rules. Its antonym is 'conformist', which refers to a person who conforms to accepted behavior or established practices."
+  },
+  {
+    "id": 237,
+    "passage": "",
+    "question": "Choose the correct antonym of the given word from the options given below:-\n\nWrath",
+    "options": [
+      "anger",
+      "delight",
+      "resentment",
+      "fury"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Wrath' means extreme anger. The opposite is 'delight', which signifies great pleasure or joy."
+  },
+  {
+    "id": 238,
+    "passage": "",
+    "question": "Rearrange the following phrases in the right sequence to form a meaningful sentence:-\n\n(A) means to take a final\n(B) to cross the Rubicon\n(C) may have dangerous consequences\n(D) irrevocable step which\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(A), (D), (C), (B)",
+      "(B), (A), (D), (C)",
+      "(C), (A), (D), (B)",
+      "(D), (B), (C), (A)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The logical sequence is: 'To cross the Rubicon (B) means to take a final (A) irrevocable step which (D) may have dangerous consequences (C).'"
+  },
+  {
+    "id": 239,
+    "passage": "",
+    "question": "Choose the correct option to form a meaningful sentence:-\n\nThe government honoured the _______ to encourage their skills.",
+    "options": [
+      "artist",
+      "artform",
+      "art",
+      "artisans"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The pronoun 'their' indicates a plural noun referring to people. 'Artisans' (skilled craft workers) fits the grammatical and contextual requirement perfectly."
+  },
+  {
+    "id": 240,
+    "passage": "",
+    "question": "Fill in the blanks in the given sentences in List-I with the prepositions in List-II\n\nList-I (Sentences)\n(A) The city has undergone massive demographic changes _____ the last twenty years.\n(B) The erstwhile prosperous farmers have, of late, fallen _____ evil days.\n(C) The wounded animal flung itself ________ its tormentor.\n(D) The child endured days of fear _____ the thought of being sent to a hostel.\n\nList-II (Prepositions)\n(I) upon\n(II) over\n(III) at\n(IV) on\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) – (I), (B) – (III), (C) – (II), (D) – (IV)",
+      "(A) – (III), (B) – (II), (C) – (I), (D) – (IV)",
+      "(A) – (I), (B) – (III), (C) – (IV), (D) – (II)",
+      "(A) – (II), (B) – (IV), (C) – (I), (D) – (III)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Changes occur 'over' a period (A-II). To fall 'on' evil days is a common idiom meaning to face hard times (B-IV). An animal flings itself 'upon' a tormentor (C-I). One feels fear 'at' a thought (D-III)."
+  },
+  {
+    "id": 241,
+    "passage": "",
+    "question": "Choose the correct antonym for the word 'Prompt' from the options given below:-",
+    "options": [
+      "Quick",
+      "Delayed",
+      "short",
+      "Immediate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Prompt' means done without delay or hesitation. Its exact opposite is 'delayed'."
+  },
+  {
+    "id": 242,
+    "passage": "",
+    "question": "Fill in the blanks in the sentences given in list List-I with the appropriate words given in List-II:-\n\nList-I (Sentences)\n(A) Enjoy yourself fully but don't let enjoyment take ______ over work.\n(B) She threatened to ______ vengeance on her enemies.\n(C) The ______ of Chandragupta is known as the golden period of Indian history.\n(D) These days one is able to ______ food from any part of the world.\n\nList-II (Words)\n(I) savour\n(II) precedence\n(III) wreak\n(IV) reign\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(A) – (I), (B) – (III), (C) – (II), (D) – (IV)",
+      "(A) – (IV), (B) – (II), (C) – (III), (D) – (I)",
+      "(A) – (II), (B) – (III), (C) – (IV), (D) – (I)",
+      "(A) – (III), (B) – (IV), (C) – (I), (D) – (II)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "To take 'precedence' means to be treated as more important (A-II). To 'wreak' vengeance means to inflict it (B-III). A monarch's period of rule is a 'reign' (C-IV). To fully enjoy the taste of food is to 'savour' it (D-I)."
+  },
+  {
+    "id": 243,
+    "passage": "",
+    "question": "Choose the correct antonym of the underlined word from the options given below:-\n\nThe ‘brazen’ women characters in his plays offered a pleasant change from the usual portrayal of women in the Elizabethan era.",
+    "options": [
+      "bold",
+      "meek",
+      "impudent",
+      "cheeky"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Brazen' means bold and without shame. 'Meek', which means quiet, gentle, and submissive, serves as its direct antonym."
+  },
+  {
+    "id": 244,
+    "passage": "",
+    "question": "Fill in the blank with the correct option to form a meaningful sentence:-\n\nThe senior officer was _______ with the care of the new recruits.",
+    "options": [
+      "trusted",
+      "mistrusted",
+      "entrusted",
+      "encouraged"
+    ],
+    "correctAnswer": 3,
+    "explanation": "To be 'entrusted' means to be assigned the responsibility for doing something. The preposition 'with' pairs correctly with 'entrusted'."
+  },
+  {
+    "id": 245,
+    "passage": "",
+    "question": "Rearrange the following phrases in the right sequence to form a meaningful sentence:-\n\n(A) his role in the past election\n(B) for misinterpretation, the senior politician\n(C) offered clarification about\n(D) leaving aside little room\n\nChoose the correct answer from the options given below:-",
+    "options": [
+      "(B), (A), (C), (D)",
+      "(D), (B), (C), (A)",
+      "(A), (C), (D), (B)",
+      "(C), (B), (D), (A)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The logical sentence flow is: 'Leaving aside little room (D) for misinterpretation, the senior politician (B) offered clarification about (C) his role in the past election (A).'"
+  },
+  {
+    "id": 246,
+    "passage": "",
+    "question": "Choose the correct synonym of the given word from the options given below:-\n\nExtraneous",
+    "options": [
+      "Inborn",
+      "Alien",
+      "Innate",
+      "Excessive"
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Extraneous' refers to something of external origin or unrelated to the subject. 'Alien', meaning unfamiliar or from an outside source, is the best synonym among the choices."
+  },
+  {
+    "id": 247,
+    "passage": "",
+    "question": "Choose the correct synonym for melancholy from the options given below:-",
+    "options": [
+      "boorish",
+      "benign",
+      "cheerful",
+      "despondent"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'Melancholy' means a feeling of pensive sadness, typically with no obvious cause. 'Despondent' means in low spirits from loss of hope or courage, acting as the closest synonym."
+  },
+  {
+    "id": 248,
+    "passage": "",
+    "question": "Rearrange the following phrases in the right sequence to form a meaningful sentence:-\n\n(A) was submitted by me\n(B) there was a vacancy for an assistant\n(C) being given to understand that\n(D) in the firm, an application\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(C), (B), (D), (A)",
+      "(A), (D), (C), (B)",
+      "(B), (C), (D), (A)",
+      "(D), (B), (C), (A)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The proper logical sequence is: 'Being given to understand that (C) there was a vacancy for an assistant (B) in the firm, an application (D) was submitted by me (A).'"
+  },
+  {
+    "id": 249,
+    "passage": "",
+    "question": "Fill in the blanks in the sentences given in List-I with the correct prepositions given in List-II:\n\nList-I (Sentences)\n(A) We must arm ourselves ______ the danger of chemical weapons.\n(B) He was accused ______ murder.\n(C) She blushed ______ the praise heaped upon her.\n(D) He is really annoyed ______ me.\n\nList-II (Prepositions)\n(I) of\n(II) with\n(III) against\n(IV) at\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A) – (III), (B) – (I), (C) – (IV), (D) – (II)",
+      "(A) – (II), (B) – (I), (C) – (III), (D) – (IV)",
+      "(A) – (II), (B) – (III), (C) – (I), (D) – (IV)",
+      "(A) – (IV), (B) – (I), (C) – (II), (D) – (III)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "One arms oneself 'against' a danger (A-III). A person is accused 'of' a crime (B-I). A person blushes 'at' sudden praise (C-IV). A person is annoyed 'with' another person (D-II)."
+  },
+  {
+    "id": 250,
+    "passage": "",
+    "question": "Choose the correct option to complete the simile:-\n\nAs obstinate as a _______ .",
+    "options": [
+      "goat",
+      "sheep",
+      "lion",
+      "mule"
+    ],
+    "correctAnswer": 4,
+    "explanation": "'As obstinate as a mule' (or 'stubborn as a mule') is a well-established English idiom indicating extreme stubbornness."
+  },
+  {
+    "id": 251,
+    "passage": "It’s essential to focus on what you control, especially when life feels difficult. This mindset is often overshadowed by the flood of information we consume daily. For instance, I spent 30 minutes this morning going down a rabbit hole after reading about Bitcoin. I ended up lost in unrelated Wikipedia pages.\n\nStoicism teaches us that time is our most valuable resource. While it’s nice to know many things, most of the information we consume has little real value. We waste time on trivial pursuits, like reading negative news, stalking social media profiles, or watching shows just to “kill time.” Why kill something so precious?\n\nWe’re quick to get upset by things we can’t control. Responding to every little thing we encounter is a habit. But true happiness comes from accepting that we don’t control most things. Worrying about global issues like recessions, wars, or natural disasters is unproductive. Indifference to things outside our control is the key to happiness.\n\nHappiness comes from meaningful activities: good friendships, enjoyable work, reading thought-provoking books, walking in nature, working out, or watching a great movie. For example, a recent Saturday was fulfilling because I spent time reading, writing, walking, and enjoying meals with family.\n\nContrast that with another day when I got caught up in negative conversations about COVID. The negativity drained me, and I accomplished nothing useful. Things are the way they are. The best we can do is focus on what matters and how we spend our time.",
+    "question": "Select the activity that contributes to happiness from the options given below:",
+    "options": [
+      "Watching random TV shows",
+      "Arguing on social media",
+      "Reading thought-provoking books",
+      "Browsing the internet for news"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The passage emphasises that meaningful activities like reading thought-provoking books contribute to true happiness, unlike passive or negative habits such as watching random TV shows, arguing online or aimless browsing."
+  },
+  {
+    "id": 252,
+    "passage": "It’s essential to focus on what you control, especially when life feels difficult. This mindset is often overshadowed by the flood of information we consume daily. For instance, I spent 30 minutes this morning going down a rabbit hole after reading about Bitcoin. I ended up lost in unrelated Wikipedia pages.\n\nStoicism teaches us that time is our most valuable resource. While it’s nice to know many things, most of the information we consume has little real value. We waste time on trivial pursuits, like reading negative news, stalking social media profiles, or watching shows just to “kill time.” Why kill something so precious?\n\nWe’re quick to get upset by things we can’t control. Responding to every little thing we encounter is a habit. But true happiness comes from accepting that we don’t control most things. Worrying about global issues like recessions, wars, or natural disasters is unproductive. Indifference to things outside our control is the key to happiness.\n\nHappiness comes from meaningful activities: good friendships, enjoyable work, reading thought-provoking books, walking in nature, working out, or watching a great movie. For example, a recent Saturday was fulfilling because I spent time reading, writing, walking, and enjoying meals with family.\n\nContrast that with another day when I got caught up in negative conversations about COVID. The negativity drained me, and I accomplished nothing useful. Things are the way they are. The best we can do is focus on what matters and how we spend our time.",
+    "question": "Select the central idea of the passage from the options given below:",
+    "options": [
+      "Consuming more information leads to happiness..",
+      "Responding to global issues is essential.",
+      "Happiness comes from following current events.",
+      "Time is a valuable resource we should use it wisely."
+    ],
+    "correctAnswer": 4,
+    "explanation": "The central idea of the passage is that time is precious and should be spent on meaningful activities within our control, rather than wasting it on unproductive or negative distractions."
+  },
+  {
+    "id": 253,
+    "passage": "It’s essential to focus on what you control, especially when life feels difficult. This mindset is often overshadowed by the flood of information we consume daily. For instance, I spent 30 minutes this morning going down a rabbit hole after reading about Bitcoin. I ended up lost in unrelated Wikipedia pages.\n\nStoicism teaches us that time is our most valuable resource. While it’s nice to know many things, most of the information we consume has little real value. We waste time on trivial pursuits, like reading negative news, stalking social media profiles, or watching shows just to “kill time.” Why kill something so precious?\n\nWe’re quick to get upset by things we can’t control. Responding to every little thing we encounter is a habit. But true happiness comes from accepting that we don’t control most things. Worrying about global issues like recessions, wars, or natural disasters is unproductive. Indifference to things outside our control is the key to happiness.\n\nHappiness comes from meaningful activities: good friendships, enjoyable work, reading thought-provoking books, walking in nature, working out, or watching a great movie. For example, a recent Saturday was fulfilling because I spent time reading, writing, walking, and enjoying meals with family.\n\nContrast that with another day when I got caught up in negative conversations about COVID. The negativity drained me, and I accomplished nothing useful. Things are the way they are. The best we can do is focus on what matters and how we spend our time.",
+    "question": "Choose the best option to complete the sentence:\n\nPracticing indifference to uncontrollable things helps to achieve______",
+    "options": [
+      "Better focus on global events",
+      "Fulfilling and lasting happiness",
+      "Improved emotional reactivity",
+      "A deeper knowledge of issues"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage states that “Indifference to things outside our control is the key to happiness.” This means letting go of uncontrollable worries leads to a more fulfilling and lasting sense of happiness."
+  },
+  {
+    "id": 254,
+    "passage": "It’s essential to focus on what you control, especially when life feels difficult. This mindset is often overshadowed by the flood of information we consume daily. For instance, I spent 30 minutes this morning going down a rabbit hole after reading about Bitcoin. I ended up lost in unrelated Wikipedia pages.\n\nStoicism teaches us that time is our most valuable resource. While it’s nice to know many things, most of the information we consume has little real value. We waste time on trivial pursuits, like reading negative news, stalking social media profiles, or watching shows just to “kill time.” Why kill something so precious?\n\nWe’re quick to get upset by things we can’t control. Responding to every little thing we encounter is a habit. But true happiness comes from accepting that we don’t control most things. Worrying about global issues like recessions, wars, or natural disasters is unproductive. Indifference to things outside our control is the key to happiness.\n\nHappiness comes from meaningful activities: good friendships, enjoyable work, reading thought-provoking books, walking in nature, working out, or watching a great movie. For example, a recent Saturday was fulfilling because I spent time reading, writing, walking, and enjoying meals with family.\n\nContrast that with another day when I got caught up in negative conversations about COVID. The negativity drained me, and I accomplished nothing useful. Things are the way they are. The best we can do is focus on what matters and how we spend our time.",
+    "question": "Choose an example of wasting time based on the passage from the options given below:-",
+    "options": [
+      "Scrolling social media profiles",
+      "Walking in nature",
+      "Spending time with family",
+      "Writing and reflecting"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage lists “stalking social media profiles” as an example of wasting time on trivial pursuits, unlike meaningful activities like walking in nature, spending time with family or writing and reflecting."
+  },
+  {
+    "id": 255,
+    "passage": "In the ancient city of Varanasi, Arjun found his world transformed one monsoon afternoon. Born into a family of hardworking labourers, he was expected to follow in his father’s footsteps. Yet, Arjun harboured an unspoken passion for art that no one knew about. As dark clouds gathered and the first raindrops fell, he wandered through the narrow lanes of the old city, seeking solace from the predictable rhythms of life.\n\nThat day, as he took refuge under a vibrant awning in a bustling market, Arjun encountered an old painter named Raghav. With paint-splattered hands and eyes that shimmered with decades of experience, Raghav noticed the spark in Arjun’s eyes. He invited Arjun into his humble studio, where canvases whispered stories of love, loss, and hope. Inspired by Raghav’s gentle mentorship, Arjun discovered his own unique style, blending tradition with innovation.\n\nOver time, his artwork became a mirror reflecting the emotions of the city, and his reputation grew. Arjun’s journey from a reluctant son to an emerging artist was not without hardship. Yet, every challenge became a brushstroke in the masterpiece of his life. Eventually, his creations graced galleries beyond Varanasi, uniting cultures and hearts. In every piece, Arjun celebrated the resilience of the human spirit, proving that passion and perseverance can transform even the most ordinary life into a vibrant work of art.\n\nHis journey, filled with unexpected lessons and creative breakthroughs, taught him that every struggle offered a chance to begin anew, inspiring his art with hope and transformation.",
+    "question": "Determine the primary theme illustrated in the passage:",
+    "options": [
+      "The preventable hardships for those who choose artistic paths for fulfilling their dreams.",
+      "The conflicts between urban modernity and ancient traditions in daily life that act as a hindrance in one’s path.",
+      "The fleeting beauty of monsoon afternoons in the ancient city encourages one to follow one’s passion.",
+      "The transformative influence of mentorship and following one’s passion despite adversity."
+    ],
+    "correctAnswer": 4,
+    "explanation": "The passage centres on Arjun’s journey of self-discovery through art, sparked by a chance meeting with the mentor Raghav. It highlights how mentorship and the courage to pursue one’s hidden passion can lead to personal transformation, even amidst adversity."
+  },
+  {
+    "id": 256,
+    "passage": "In the ancient city of Varanasi, Arjun found his world transformed one monsoon afternoon. Born into a family of hardworking labourers, he was expected to follow in his father’s footsteps. Yet, Arjun harboured an unspoken passion for art that no one knew about. As dark clouds gathered and the first raindrops fell, he wandered through the narrow lanes of the old city, seeking solace from the predictable rhythms of life.\n\nThat day, as he took refuge under a vibrant awning in a bustling market, Arjun encountered an old painter named Raghav. With paint-splattered hands and eyes that shimmered with decades of experience, Raghav noticed the spark in Arjun’s eyes. He invited Arjun into his humble studio, where canvases whispered stories of love, loss, and hope. Inspired by Raghav’s gentle mentorship, Arjun discovered his own unique style, blending tradition with innovation.\n\nOver time, his artwork became a mirror reflecting the emotions of the city, and his reputation grew. Arjun’s journey from a reluctant son to an emerging artist was not without hardship. Yet, every challenge became a brushstroke in the masterpiece of his life. Eventually, his creations graced galleries beyond Varanasi, uniting cultures and hearts. In every piece, Arjun celebrated the resilience of the human spirit, proving that passion and perseverance can transform even the most ordinary life into a vibrant work of art.\n\nHis journey, filled with unexpected lessons and creative breakthroughs, taught him that every struggle offered a chance to begin anew, inspiring his art with hope and transformation.",
+    "question": "Evaluate the impact of Arjun’s artwork as described in the passage:-",
+    "options": [
+      "His art remained confined within the narrow lanes of Varanasi with little recognition.",
+      "His work was mostly criticised and led to further isolation from society, leading to sorrow and dejection.",
+      "His creations resonated deeply, uniting diverse cultures and inspiring many people.",
+      "His art was solely a personal hobby that never gained public attention though it gave him a lot of satisfaction."
+    ],
+    "correctAnswer": 3,
+    "explanation": "The passage clearly states that Arjun’s artwork “graced galleries beyond Varanasi, uniting cultures and hearts.” This shows that his art had a significant impact, going beyond personal fulfilment to inspire and connect people from different backgrounds."
+  },
+  {
+    "id": 257,
+    "passage": "In the ancient city of Varanasi, Arjun found his world transformed one monsoon afternoon. Born into a family of hardworking labourers, he was expected to follow in his father’s footsteps. Yet, Arjun harboured an unspoken passion for art that no one knew about. As dark clouds gathered and the first raindrops fell, he wandered through the narrow lanes of the old city, seeking solace from the predictable rhythms of life.\n\nThat day, as he took refuge under a vibrant awning in a bustling market, Arjun encountered an old painter named Raghav. With paint-splattered hands and eyes that shimmered with decades of experience, Raghav noticed the spark in Arjun’s eyes. He invited Arjun into his humble studio, where canvases whispered stories of love, loss, and hope. Inspired by Raghav’s gentle mentorship, Arjun discovered his own unique style, blending tradition with innovation.\n\nOver time, his artwork became a mirror reflecting the emotions of the city, and his reputation grew. Arjun’s journey from a reluctant son to an emerging artist was not without hardship. Yet, every challenge became a brushstroke in the masterpiece of his life. Eventually, his creations graced galleries beyond Varanasi, uniting cultures and hearts. In every piece, Arjun celebrated the resilience of the human spirit, proving that passion and perseverance can transform even the most ordinary life into a vibrant work of art.\n\nHis journey, filled with unexpected lessons and creative breakthroughs, taught him that every struggle offered a chance to begin anew, inspiring his art with hope and transformation.",
+    "question": "Deduce the message the author conveys about overcoming obstacles:-",
+    "options": [
+      "Struggles are insurmountable barriers that only worsen one’s chances of success.",
+      "Every challenge offers an opportunity to grow and transform one’s life with resilience.",
+      "Only those with privileged backgrounds can successfully overcome life’s obstacles.",
+      "Obstacles invariably lead to failure, regardless of personal determination or passion."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage emphasises that Arjun’s hardships became “brushstrokes in the masterpiece of his life” and that “every struggle offered a chance to begin anew.” This clearly conveys the message that resilience and passion can transform challenges into opportunities for personal growth and success."
+  },
+  {
+    "id": 258,
+    "passage": "In the ancient city of Varanasi, Arjun found his world transformed one monsoon afternoon. Born into a family of hardworking labourers, he was expected to follow in his father’s footsteps. Yet, Arjun harboured an unspoken passion for art that no one knew about. As dark clouds gathered and the first raindrops fell, he wandered through the narrow lanes of the old city, seeking solace from the predictable rhythms of life.\n\nThat day, as he took refuge under a vibrant awning in a bustling market, Arjun encountered an old painter named Raghav. With paint-splattered hands and eyes that shimmered with decades of experience, Raghav noticed the spark in Arjun’s eyes. He invited Arjun into his humble studio, where canvases whispered stories of love, loss, and hope. Inspired by Raghav’s gentle mentorship, Arjun discovered his own unique style, blending tradition with innovation.\n\nOver time, his artwork became a mirror reflecting the emotions of the city, and his reputation grew. Arjun’s journey from a reluctant son to an emerging artist was not without hardship. Yet, every challenge became a brushstroke in the masterpiece of his life. Eventually, his creations graced galleries beyond Varanasi, uniting cultures and hearts. In every piece, Arjun celebrated the resilience of the human spirit, proving that passion and perseverance can transform even the most ordinary life into a vibrant work of art.\n\nHis journey, filled with unexpected lessons and creative breakthroughs, taught him that every struggle offered a chance to begin anew, inspiring his art with hope and transformation.",
+    "question": "Interpret the change in Arjun’s outlook on life throughout the passage:-",
+    "options": [
+      "He learned to view every hardship as an essential brushstroke in his personal masterpiece.",
+      "He became indifferent to challenges and avoided confronting any obstacles whatsoever.",
+      "He rejected the essential idea of change and chose to adhere strictly to his old beliefs.",
+      "He focused solely on attaining commercial success, disregarding personal growth and art."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The passage describes how Arjun’s challenges shaped his journey and became integral to his growth as an artist and person. The line “every challenge became a brushstroke in the masterpiece of his life” directly supports this interpretation, showing his transformed and positive outlook on life through resilience and creativity."
+  },
+  {
+    "id": 259,
+    "passage": "India is renowned for its rich and diverse heritage of handicrafts, which reflect the country’s deep cultural roots and artistic traditions. Each region in India has its own distinct craft, passed down through generations of artisans. These handicrafts showcase the intricate artistry, creativity, and skills of Indian craftsmen.\n\nIn Kashmir, the famous Pashmina shawls and carpets are known for their delicate embroidery and luxurious feel. Rajasthan is a treasure trove of vibrant handicrafts, including its famous tie-and-dye fabrics, exquisite jewellery, and intricate meenakari work. Andhra Pradesh is recognised for its Bidriware, a form of metalwork, and the beautiful Pochampally sarees, which are known for their traditional ikat patterns.\n\nIn Tamil Nadu, the intricate bronze sculptures and the traditional Kanjeevaram sarees are highly prized. Mysore is famous for its silk weaving and sandalwood products, while Kerala is known for its elegant ivory carvings and rosewood furniture. The terracotta figurines of Bankura, the delicate Chikan work from Lucknow, and the rich brocade and silk sarees from Banaras are a testament to India’s diversity in craftsmanship.\n\nThese handicrafts not only contribute to India’s cultural heritage but also provide employment to millions of artisans across the country. Over the years, these traditional crafts have evolved while preserving their authenticity, creating a legacy of artistic excellence. Indian handicrafts are a testament to the timeless creativity and skill of the artisans who continue to keep these traditions alive for generations to come.",
+    "question": "Which of the following is NOT mentioned as a famous handicraft from Rajasthan?",
+    "options": [
+      "Tie-and-dye fabrics",
+      "Pashmina shawls",
+      "Stone studded Jewellery",
+      "Meenakari work"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage mentions Pashmina shawls as a famous handicraft from Kashmir, not Rajasthan. Tie and dye fabrics, stone-studded jewellery and meenakari work are all associated with Rajasthan."
+  },
+  {
+    "id": 260,
+    "passage": "India is renowned for its rich and diverse heritage of handicrafts, which reflect the country’s deep cultural roots and artistic traditions. Each region in India has its own distinct craft, passed down through generations of artisans. These handicrafts showcase the intricate artistry, creativity, and skills of Indian craftsmen.\n\nIn Kashmir, the famous Pashmina shawls and carpets are known for their delicate embroidery and luxurious feel. Rajasthan is a treasure trove of vibrant handicrafts, including its famous tie-and-dye fabrics, exquisite jewellery, and intricate meenakari work. Andhra Pradesh is recognised for its Bidriware, a form of metalwork, and the beautiful Pochampally sarees, which are known for their traditional ikat patterns.\n\nIn Tamil Nadu, the intricate bronze sculptures and the traditional Kanjeevaram sarees are highly prized. Mysore is famous for its silk weaving and sandalwood products, while Kerala is known for its elegant ivory carvings and rosewood furniture. The terracotta figurines of Bankura, the delicate Chikan work from Lucknow, and the rich brocade and silk sarees from Banaras are a testament to India’s diversity in craftsmanship.\n\nThese handicrafts not only contribute to India’s cultural heritage but also provide employment to millions of artisans across the country. Over the years, these traditional crafts have evolved while preserving their authenticity, creating a legacy of artistic excellence. Indian handicrafts are a testament to the timeless creativity and skill of the artisans who continue to keep these traditions alive for generations to come.",
+    "question": "The traditional ikat patterns are found in________ sarees from Andhra Pradesh.",
+    "options": [
+      "Mysore",
+      "Kanjeevaram",
+      "Pochampally",
+      "Banaras"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The passage states that Pochampally sarees from Andhra Pradesh are known for their traditional ikat patterns."
+  },
+  {
+    "id": 261,
+    "passage": "India is renowned for its rich and diverse heritage of handicrafts, which reflect the country’s deep cultural roots and artistic traditions. Each region in India has its own distinct craft, passed down through generations of artisans. These handicrafts showcase the intricate artistry, creativity, and skills of Indian craftsmen.\n\nIn Kashmir, the famous Pashmina shawls and carpets are known for their delicate embroidery and luxurious feel. Rajasthan is a treasure trove of vibrant handicrafts, including its famous tie-and-dye fabrics, exquisite jewellery, and intricate meenakari work. Andhra Pradesh is recognised for its Bidriware, a form of metalwork, and the beautiful Pochampally sarees, which are known for their traditional ikat patterns.\n\nIn Tamil Nadu, the intricate bronze sculptures and the traditional Kanjeevaram sarees are highly prized. Mysore is famous for its silk weaving and sandalwood products, while Kerala is known for its elegant ivory carvings and rosewood furniture. The terracotta figurines of Bankura, the delicate Chikan work from Lucknow, and the rich brocade and silk sarees from Banaras are a testament to India’s diversity in craftsmanship.\n\nThese handicrafts not only contribute to India’s cultural heritage but also provide employment to millions of artisans across the country. Over the years, these traditional crafts have evolved while preserving their authenticity, creating a legacy of artistic excellence. Indian handicrafts are a testament to the timeless creativity and skill of the artisans who continue to keep these traditions alive for generations to come.",
+    "question": "According to the passage, what has helped preserve Indian handicrafts over the years?",
+    "options": [
+      "Government support in all its fervor and essence",
+      "Modern technologies with the help of Al and meta",
+      "International demand for the renowned handicrafts",
+      "Generational knowledge passed down by artisans"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The passage mentions that each region in India has its own distinct craft, “passed down through generations of artisans,” which has helped preserve the authenticity and legacy of Indian handicrafts over the years."
+  },
+  {
+    "id": 262,
+    "passage": "India is renowned for its rich and diverse heritage of handicrafts, which reflect the country’s deep cultural roots and artistic traditions. Each region in India has its own distinct craft, passed down through generations of artisans. These handicrafts showcase the intricate artistry, creativity, and skills of Indian craftsmen.\n\nIn Kashmir, the famous Pashmina shawls and carpets are known for their delicate embroidery and luxurious feel. Rajasthan is a treasure trove of vibrant handicrafts, including its famous tie-and-dye fabrics, exquisite jewellery, and intricate meenakari work. Andhra Pradesh is recognised for its Bidriware, a form of metalwork, and the beautiful Pochampally sarees, which are known for their traditional ikat patterns.\n\nIn Tamil Nadu, the intricate bronze sculptures and the traditional Kanjeevaram sarees are highly prized. Mysore is famous for its silk weaving and sandalwood products, while Kerala is known for its elegant ivory carvings and rosewood furniture. The terracotta figurines of Bankura, the delicate Chikan work from Lucknow, and the rich brocade and silk sarees from Banaras are a testament to India’s diversity in craftsmanship.\n\nThese handicrafts not only contribute to India’s cultural heritage but also provide employment to millions of artisans across the country. Over the years, these traditional crafts have evolved while preserving their authenticity, creating a legacy of artistic excellence. Indian handicrafts are a testament to the timeless creativity and skill of the artisans who continue to keep these traditions alive for generations to come.",
+    "question": "What does the passage primarily highlight?",
+    "options": [
+      "The economic impact of our handicrafts.",
+      "The diversity and richness of Indian handicrafts.",
+      "The use of handicrafts in the daily lives of Indians.",
+      "The role of Indian handicrafts in modern design."
+    ],
+    "correctAnswer": 2,
+    "explanation": "The passage mainly focuses on showcasing the wide variety of handicrafts from different regions of India, emphasising their cultural richness, artistic value and traditional significance."
+  },
+  {
+    "id": 263,
+    "passage": "",
+    "question": "Match the proverbs in List-I with the proverbs opposite in meaning in List-II:\n\nList - I (Proverbs)\n(A) Many hands make work light.\n(B) Look before you leap.\n(C) Out of sight, out of mind.\n(D) The pen is mightier than the sword.\n\nList - II (Opposite Proverbs)\n(I) He who hesitates is lost.\n(II) Actions speak louder than words.\n(III) Too many cooks spoil the broth.\n(IV) Absence makes the heart grow fonder.\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+      "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+      "(A)-(III), (B)-(I), (C)-(IV), (D)-(II)",
+      "(A)-(I), (B)-(IV), (C)-(III), (D)-(II)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "“Many hands make work light” means that teamwork makes tasks easier, while its opposite, “Too many cooks spoil the broth,” suggests that too many people can create confusion. “Look before you leap” advises caution before acting, whereas “He who hesitates is lost” urges immediate action. “Out of sight, out of mind” implies forgetting what is not present, in contrast to “Absence makes the heart grow fonder,” which means distance can strengthen affection. “The pen is mightier than the sword” values the power of words over violence, while “Actions speak louder than words” stresses that deeds are more impactful than speech."
+  },
+  {
+    "id": 264,
+    "passage": "",
+    "question": "Select the word similar in meaning to the given word: Munificent",
+    "options": [
+      "Bountiful",
+      "Penurious",
+      "Salacious",
+      "Virtuous"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Munificent means very generous or liberal in giving, and bountiful closely matches this meaning as it also refers to generosity and abundance. In contrast, penurious means stingy or poor, salacious relates to indecency and virtuous refers to moral goodness—none of which conveys the idea of generosity."
+  },
+  {
+    "id": 265,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank in the given sentence:\nThe movie was so ________that the audience gave it a standing ovation.",
+    "options": [
+      "morose",
+      "ordinary",
+      "tiring",
+      "fascinating"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The sentence suggests that the audience was highly impressed and gave the movie a standing ovation. The word fascinating fits best, as it means extremely interesting or captivating. The other options—morose (gloomy), ordinary (common), and tiring (exhausting)—do not match the positive tone of the sentence."
+  },
+  {
+    "id": 266,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank in the given sentence.\n\nThe professor gave a _______explanation, making even the most complex concepts easy to understand.",
+    "options": [
+      "coherent",
+      "perplexing",
+      "vague",
+      "superficial"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence describes a clear and easy-to-understand explanation. Coherent means logical and well-organised, which fits the context. Perplexing means confusing, vague means unclear, and superficial means lacking depth—all of which contradict the intended meaning."
+  },
+  {
+    "id": 267,
+    "passage": "",
+    "question": "Match the Idioms given in List-I with the Meanings given in List-II:\n\nList - I (Idioms)\n(A) Add fuel to the fire\n(B) Throw caution to the wind\n(C) Kill two birds with one stone\n(D) Steal someone’s thunder\n\nList - II (Meanings)\n(I) To take credit for someone else’s idea or work\n(II) To worsen an already bad situation\n(III) To act without considering the risks\n(IV) To achieve two goals with one action\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(III), (B)-(II), (C)-(IV), (D)-(I)",
+      "(A)-(I), (B)-(IV), (C)-(II), (D)-(III)",
+      "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+      "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The idiom “Add fuel to the fire” means to make an already bad situation worse, which matches with (II). “Throw caution to the wind” refers to acting without thinking about the risks, aligning with (III). “Kill two birds with one stone” means achieving two goals with a single effort, which corresponds to (IV). Lastly, “Steal someone’s thunder” means taking credit for someone else’s idea or success, which fits with (I). Hence, the correct match is option 4."
+  },
+  {
+    "id": 268,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n(A) patrons could enjoy solitude accompanied\n(B) cafe offered a tranquil escape where\n(C) by the aroma of freshly brewed coffee\n(D) in the midst of the bustling city a small\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(D), (B), (A), (C)",
+      "(A), (C), (D), (B)",
+      "(B), (A), (D), (C)",
+      "(C), (B), (D), (A)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct sentence is: “In the midst of the bustling city, a small cafe offered a tranquil escape where patrons could enjoy solitude accompanied by the aroma of freshly brewed coffee.” This sequence creates a logical and grammatically correct sentence that flows naturally."
+  },
+  {
+    "id": 269,
+    "passage": "",
+    "question": "Match the Phrasal Verbs given in List-I with their meanings given in List-II:\n\nList - I (Phrasal Verbs)\n(A) Put up with\n(B) Run out of\n(C) Get away with\n(D) Look down on\n\nList - II (Meanings)\n(I) To exhaust the supply of something.\n(II) To escape blame or punishment for something.\n(III) To consider somebody inferior to oneself.\n(IV) To tolerate or endure something unpleasant.\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+      "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)",
+      "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+      "(A)-(II), (B)-(IV), (C)-(I), (D)-(II)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The phrasal verb “put up with” means to tolerate or endure something unpleasant, which matches with (IV). “Run out of” means to exhaust the supply of something, matching with (I). “Get away with” refers to escaping blame or punishment for something, which aligns with (II). Finally, “look down on” means to consider someone inferior to oneself, corresponding to (III). Therefore, the correct matching of phrasal verbs with their meanings is given in option 2."
+  },
+  {
+    "id": 270,
+    "passage": "",
+    "question": "Match the words given in List-I with the meanings given in List-II:\n\nList - I (Words)\n(A) Convivial\n(B) Indefatigable\n(C) Luminous\n(D) Ubiquitous\n\nList - II (Meanings)\n(I) Emitting or reflecting light; bright and shining.\n(II) Cheerful and friendly, fond of the company of other.\n(III) Present, appearing, or found everywhere.\n(IV) Capable of continuing tirelessly and without effort.\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(III), (B)-(II), (C)-(I), (D)-(IV)",
+      "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+      "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+      "(A)-(II), (B)-(IV), (C)-(I), (D)-(III)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The word “convivial” means cheerful and friendly, which matches with (II). “Indefatigable” refers to someone who is tireless and capable of continuing without effort, matching with (IV). “Luminous” means emitting or reflecting light, aligning with (I). “Ubiquitous” means being present or found everywhere, which matches with (III)."
+  },
+  {
+    "id": 271,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n(A) in the sky the travellers hastened to find\n(B) that was bound to disrupt their journey\n(C) shelter, fearing a sudden downpour\n(D) as the storm clouds gathered ominously\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A), (B), (C), (D)",
+      "(D), (A), (C), (B)",
+      "(B), (A), (D), (C)",
+      "(C), (B), (D), (A)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct sentence is: “As the storm clouds gathered ominously, in the sky the travellers hastened to find shelter, fearing a sudden downpour that was bound to disrupt their journey.” This sequence flows logically and maintains grammatical correctness, clearly describing the cause (storm clouds) and the travellers' reaction (seeking shelter)."
+  },
+  {
+    "id": 272,
+    "passage": "",
+    "question": "Match the figures of Speech given in List-I with their meanings given in List-II:\n\nList - I (Figures of Speech)\n(A) Irony\n(B) Pun\n(C) Paradox\n(D) Euphemism\n\nList - II (Meanings)\n(I) An expression that is gentler or less direct than the one normally used to refer to something unpleasant.\n(II) A seemingly absurd or self-contradictory statement that may in fact be true.\n(III) The expression of meaning through the use of language signifying the opposite, in order to be amusing or give emphasis.\n(IV) The humorous use of a word that has two meanings: play on words.\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)",
+      "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+      "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+      "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Irony is a figure of speech where the intended meaning is opposite to the literal one, often used for humour or emphasis, which matches with (III). Pun refers to the humorous use of a word that has two meanings or sounds similar to another word, fitting with (IV). Paradox is a statement that appears self-contradictory or absurd but may reveal an underlying truth, corresponding to (II). Euphemism is a softer or more polite way of saying something unpleasant or harsh, which matches with (I). Therefore, option 1 correctly pairs each figure of speech with its meaning."
+  },
+  {
+    "id": 273,
+    "passage": "",
+    "question": "Select the word opposite in meaning to the given word: Sagacious",
+    "options": [
+      "Intelligent",
+      "Unwise",
+      "Perspicacious",
+      "Expensive"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sagacious means wise or having good judgment, so the word unwise is its opposite as it means lacking wisdom or good sense. Intelligent and perspicacious are similar in meaning to sagacious, while expensive is unrelated."
+  },
+  {
+    "id": 274,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank in the given sentence:\nThe committee was ______ about the decision and delayed announcing it.",
+    "options": [
+      "decisive",
+      "reticent",
+      "firm",
+      "enthusiastic"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sentence suggests that the committee was hesitant or unwilling to speak openly about the decision, which caused a delay. Reticent means reserved or unwilling to share information, making it the best fit. The other options—decisive, firm, and enthusiastic—imply confidence or eagerness, which contradicts the context of delay."
+  },
+  {
+    "id": 275,
+    "passage": "",
+    "question": "Select the word opposite in meaning to the given word: Tenuous.",
+    "options": [
+      "Strong",
+      "Delicate",
+      "Feeble",
+      "Common"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tenuous means weak, fragile, or lacking strength. The opposite of this is strong, which means firm, solid, or powerful. Delicate and feeble are similar to tenuous in meaning, while common is unrelated."
+  },
+  {
+    "id": 276,
+    "passage": "",
+    "question": "Choose the correct word to fill in the blank in the given sentence:\nIn _________, I think I should have been more patient with my learning process.",
+    "options": [
+      "memory",
+      "recollection",
+      "retrospect",
+      "reminiscence"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Retrospect means looking back on or reviewing past events, which fits the sentence structure and meaning. The phrase “In retrospect” is commonly used to reflect on something that has already happened, while memory, recollection, and reminiscence do not fit naturally in this context."
+  },
+  {
+    "id": 277,
+    "passage": "",
+    "question": "Select the word similar in meaning to the given word: Soporific",
+    "options": [
+      "Inviolable",
+      "Wakeful",
+      "Sophisticated",
+      "Somnolent"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Soporific means causing sleep or drowsiness. Somnolent also means sleepy or drowsy, making it the closest in meaning. Inviolable means secure or sacred, wakeful means alert or not sleepy, and sophisticated means refined or complex, all of which are unrelated."
+  },
+  {
+    "id": 278,
+    "passage": "",
+    "question": "Select the word similar in meaning to the given word: Indolent",
+    "options": [
+      "Lazy",
+      "Weak",
+      "Sleepy",
+      "Indifferent"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indolent means habitually lazy or avoiding activity or exertion. Lazy is the closest in meaning. Weak refers to a lack of strength, sleepy means feeling drowsy, and indifferent means lacking interest or concern, which are not accurate synonyms."
+  },
+  {
+    "id": 279,
+    "passage": "",
+    "question": "Select the word opposite in meaning to the given word: Altruistic",
+    "options": [
+      "Compassionate",
+      "Constant",
+      "Selfish",
+      "Intelligent"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Altruistic means selfless and concerned about the well-being of others. The opposite is selfish, which means being primarily concerned with one’s own interests. The other options do not convey the opposite meaning."
+  },
+  {
+    "id": 280,
+    "passage": "",
+    "question": "Fill in the blanks in the given sentences in List-I with the prepositions given in List-II:\n\nList - I (Sentences)\n(A) The skilled artisans worked tirelessly, ensuring their craftsmanship was _______\nexpectations.\n(B) The cultural preservation efforts have been moving _______ a clear strategy to protect traditional art forms.\n(C) The young apprentice was_______ his mentor, carefully observing every technique.\n(D) The artisans placed tradition _______ profit, valuing cultural heritage above monetary gain.\n\nList - II (Prepositions)\n(I) with\n(II) before\n(III) along\n(IV) beyond\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(IV), (B)-(II), (C)-(III), (D)-(I)",
+      "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+      "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)",
+      "(A)-(III), (B)-(IV), (C)-(II), (D)-(I)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "In sentence A, the correct phrase is “beyond expectations,” meaning exceeding what was expected. In sentence B, “moving along a clear strategy” implies progressing steadily following a plan. Sentence C uses “with his mentor,” indicating the apprentice was together or in the company of the mentor. Sentence D uses “before profit,” suggesting that the artisans prioritised tradition over money."
+  },
+  {
+    "id": 281,
+    "passage": "",
+    "question": "Select the word similar in meaning to the given word: Recondite",
+    "options": [
+      "Faithless",
+      "Facile",
+      "Simple",
+      "Abstruse"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Recondite means difficult to understand or obscure. Abstruse has a similar meaning, referring to something that is hard to comprehend or intellectually challenging. The other options—faithless, facile, and simple—do not convey this complexity."
+  },
+  {
+    "id": 282,
+    "passage": "",
+    "question": "Choose the correct expression to fill in the blank in the given sentence:\nPlease don’t let your feelings ______ you.",
+    "options": [
+      "run away to",
+      "run away with",
+      "run away from",
+      "run away into"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct expression is “run away with,” which means to be overwhelmed or controlled by something, especially emotions. The sentence “Please don’t let your feelings run away with you” means not to let emotions take control or lead to irrational actions. The other options do not fit the intended meaning or structure."
+  },
+  {
+    "id": 283,
+    "passage": "",
+    "question": "Select the correct synonym for the word: Pernicious",
+    "options": [
+      "Salubrious",
+      "Wholesome",
+      "Deleterious",
+      "Advantageous"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Pernicious means harmful or damaging, often in a subtle or gradual way. Deleterious has a similar meaning, referring to something that causes harm. The other options—salubrious, wholesome and advantageous—are positive in nature and do not match the negative tone of pernicious."
+  },
+  {
+    "id": 284,
+    "passage": "",
+    "question": "Choose the correct phrase from the given options to complete the given sentence:\nBy the time we reached the theatre, the movie ______.",
+    "options": [
+      "will have started",
+      "had started",
+      "has started",
+      "is starting"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The sentence refers to an action that was already completed before another action in the past. “Had started” is the correct past perfect tense to show that the movie began before ‘we’ reached the theatre. The other options do not fit this timeline correctly."
+  },
+  {
+    "id": 285,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n(A) has the profound ability to evoke\n(B) while art is often considered a luxury it\n(C) transcending cultural and linguistic barriers\n(D) emotions and provoke thoughts\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(D), (C), (B), (A)",
+      "(A), (C), (B), (D)",
+      "(B), (A), (D), (C)",
+      "(C), (B), (D), (A)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct sentence is: “While art is often considered a luxury, it has the profound ability to evoke emotions and provoke thoughts, transcending cultural and linguistic barriers.” This sequence maintains grammatical correctness and logical flow, starting with the contrast between art and ending with its universal impact."
+  },
+  {
+    "id": 286,
+    "passage": "",
+    "question": "Fill in the blanks in the given sentences in List-I with the verbs given in List-II:\n\nList - I (Sentences)\n(A) Without the _____ aid, my grandmother couldn’t understand a word spoken to her.\n(B) Swarn enjoys _____ to classical music in her free time.\n(C) The approval for _____ the banks of the river before the monsoon has come.\n(D) The children area _____ a sandcastle on the beach with great enthusiasm.\n\nList - II (Verbs)\n(I) dredging\n(II) building\n(III) hearing\n(IV) listening\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+      "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)",
+      "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+      "(A)-(IV), (B)-(I), (C)-(II), (D)-(III)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "In sentence A, “Without the hearing aid” is correct as it refers to a device that helps with hearing. Sentence B uses “listening to classical music,” since we listen to music actively. Sentence C refers to “dredging the banks of the river,” which means clearing out sediment—a common activity before the monsoon. Sentence D completes as “The children are building a sandcastle,” which is the correct verb for creating a sand structure."
+  },
+  {
+    "id": 287,
+    "passage": "",
+    "question": "Select the word opposite in meaning to the given word: Irascible",
+    "options": [
+      "Affordable",
+      "Irritable",
+      "Refutable",
+      "Amiable"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Irascible means easily angered or short-tempered. The opposite of this is amiable, which describes someone who is friendly and pleasant in nature. The other options do not convey an opposite meaning—irritable is actually similar, while affordable and refutable are unrelated."
+  },
+  {
+    "id": 288,
+    "passage": "",
+    "question": "Match the proverbs in List-I with the meanings in List-II:\n\nList - I (Sentences)\n(A) An apple a day keeps the doctor away\n(B) When in Rome, do as the Romans do.\n(C) Make hay while the sun shines.\n(D) The grass is always greener on the other side.\n\nList - II (Verbs)\n(I) Take advantage of opportunities.\n(II) Other people’s situations seem better than your own\n(III) Taking care of health prevents illness.\n(IV) Adapt to local customs and practices.\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+      "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+      "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+      "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "“An apple a day keeps the doctor away” means taking care of your health prevents illness, matching with taking care of health prevents illness (III). “When in Rome, do as the Romans do” suggests adapting to the customs of the place you are in, matching with adapting to local customs and practices (IV). “Make hay while the sun shines” means to take advantage of opportunities while they last, matching with take advantage of opportunities (I). “The grass is always greener on the other side” means people often think others have it better, matching with other people’s situations seems better than your own (II)."
+  },
+  {
+    "id": 289,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank in the given sentence:\nThe newly opened café became a popular ______ for artists and writers to gather and share ideas.",
+    "options": [
+      "playground",
+      "hotspot",
+      "showcase",
+      "meeting"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The word hotspot fits best in the sentence as it refers to a popular or trendy place where people often gather. Here, it highlights that the café became a favoured location for artists and writers. The other options—playground, showcase and meeting—do not convey the same idea of popularity or regular gathering."
+  },
+  {
+    "id": 290,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank in the given sentence:\nIf I _____ enough time tomorrow, I will finish the assignment.",
+    "options": [
+      "had",
+      "will have",
+      "has",
+      "have"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct sentence is: “If I have enough time tomorrow, I will finish the assignment.” This is a first conditional sentence, used for real possibilities in the future. The structure is: If + present tense, will + base verb. So, “have” is the correct present-tense verb to use with “I.”"
+  },
+  {
+    "id": 291,
+    "passage": "",
+    "question": "Complete the sentences given in List-I with the appropriate words given in List-II:\n\nList - I (Sentences)\n(A) For many people in remote areas, ______ water is still a pipe-dream.\n(B) These days, most of the gadgets are so designed that they are sleek and ______.\n(C) After the monsoon, the damp patches on the ______ bore marks of the heavy downpour.\n(D) The ______ wax did wonders to save the packets from spilling open.\n\nList - II (Homonyms)\n(I) portable\n(II) potable\n(III) ceiling\n(IV) sealing\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(II), (B)-(III), (C)-(IV), (D)-(I)",
+      "(A)-(II), (B)-(I), (C)-(III), (D)-(IV)",
+      "(A)-(I), (B)-(II), (C)-(IV), (D)-(III)",
+      "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In sentence (A), the word “potable” correctly refers to water that is safe to drink, which aligns with the idea that clean drinking water remains a distant dream for many. In (B), “portable” suits the description of gadgets that are sleek and easy to carry. Sentence (C) requires the word “ceiling” to describe where damp patches are typically found after a monsoon. Lastly, in (D), “sealing” wax is the correct term for a substance used to prevent packets from spilling open, making it the most suitable choice."
+  },
+  {
+    "id": 292,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n(A) upon them unveiling a long-lost civilisation\n(B) forest remained a mystery for centuries\n(C) the ancient ruins, hidden deep within the\n(D) until an archaeologist accidentally stumbled\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(D), (B), (C), (A)",
+      "(A), (C), (D), (B)",
+      "(B), (A), (D), (C)",
+      "(C), (B), (D), (A)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct sequence forms the sentence: “The ancient ruins, hidden deep within the forest, remained a mystery for centuries until an archaeologist accidentally stumbled upon them, unveiling a long-lost civilisation.” It starts by introducing the subject — the ancient ruins (C), then explains their mystery over time (B), followed by the event that led to their discovery (D), and finally concludes with the revelation of their significance (A)."
+  },
+  {
+    "id": 293,
+    "passage": "",
+    "question": "Select the word opposite in meaning to the given word: Nomad",
+    "options": [
+      "Traveller",
+      "Resident",
+      "Wanderer",
+      "Immigrant"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A nomad is someone who moves from place to place without a permanent home. The opposite of this is a resident, who lives in a fixed place. While traveller and wanderer are similar to nomad, and immigrant refers to someone who moves but settles, only resident is truly the opposite."
+  },
+  {
+    "id": 294,
+    "passage": "",
+    "question": "Complete the sentences given in List-I with the appropriate adjectives given in List-II:\n\nList - I (Sentences)\n(A) The ______ colours of the painting caught my attention.\n(B) The ______ lake was a perfect spot for a relaxing picnic.\n(C) The ______ design on the ancient monument was fascinating.\n(D) The ______ smell of freshly baked cookies filled the entire house.\n\nList - II (Adjectives)\n(I) delectable\n(II) intricate\n(III) serene\n(IV) vibrant\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A)-(IV), (B)-(III), (C)-(II), (D)-(I)",
+      "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+      "(A)-(III), (B)-(IV), (C)-(I), (D)-(II)",
+      "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct sequence forms the sentences: “The vibrant colours of the painting caught my attention,” “The serene lake was a perfect spot for a relaxing picnic,” “The intricate design on the ancient monument was fascinating,” and “The delectable smell of freshly baked cookies filled the entire house.”"
+  },
+  {
+    "id": 295,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank in the given sentence:\nMen who are always______ about their poverty, never achieve success forget happiness.",
+    "options": [
+      "rejoicing",
+      "fighting",
+      "grumbling",
+      "ignoring"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The word “grumbling” means to complain in a bad-tempered way. Men who are constantly complaining or grumbling about their poverty are preoccupied with their negative circumstances, which prevents them from taking action to achieve success or find happiness."
+  },
+  {
+    "id": 296,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n(A) the team managed to reach the summit\n(B) inspiring countless others to follow their path\n(C) setting a new record in the process and\n(D) despite the challenges faced during the expedition\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(D), (A), (C), (B)",
+      "(A), (D), (B), (C)",
+      "(B), (A), (D), (C)",
+      "(C), (A), (D), (B)"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The sentence logically begins with the challenge faced (D), followed by the team’s achievement (A), the record they set (C), and finally the inspiration they provided (B). The correct sequence is: “Despite the challenges faced during the expedition, the team managed to reach the summit, setting a new record in the process and inspiring countless others to follow their path.”"
+  },
+  {
+    "id": 297,
+    "passage": "",
+    "question": "Choose the correct option to fill in the blank in the given sentence:\nThe students listened ____ to the teacher’s instructions, ensuring that they understood every detail.",
+    "options": [
+      "carelessly",
+      "lazily",
+      "attentively",
+      "abruptly"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The sentence states that the students listened to the instructions and “ensured that they understood every detail.” This phrase implies that they were paying close attention. Therefore, the word “attentively,” which means with close and careful attention, is the only word that fits the context of the sentence. The other options (carelessly, lazily, abruptly) suggest a lack of attention, which contradicts the second part of the sentence."
+  },
+  {
+    "id": 298,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n(A) threat is now a pressing global issue requiring\n(B) climate change, once considered a distant\n(C) its devastating effects on the planet\n(D) immediate and collective action to mitigate\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A), (C), (D), (B)",
+      "(D), (B), (C), (A)",
+      "(B), (A), (D), (C)",
+      "(C), (B), (D), (A)"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct sequence forms the sentence: “Climate change, once considered a distant threat, is now a pressing global issue requiring immediate and collective action to mitigate its devastating effects on the planet.” It starts by introducing the subject, climate change and its past perception as a distant threat (B), then highlights its current status as a pressing global issue (A), followed by the required immediate and collective action (D), and finally concludes by stating the reason for that action (C)."
+  },
+  {
+    "id": 299,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n(A) the hearts of audiences across generations\n(B) gained worldwide acclaim after its adaptation\n(C) the novel which had been dismissed as unremarkable\n(D) into a blockbuster film that captured\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(D), (B), (A), (C)",
+      "(C), (A), (D), (B)",
+      "(B), (A), (D), (C)",
+      "(C), (B), (D), (A)"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct sequence forms the sentence: “The novel, which had been dismissed as unremarkable, gained worldwide acclaim after its adaptation into a blockbuster film that captured the hearts of audiences across generations.” It starts by introducing the subject, “the novel which had been dismissed as unremarkable” (C), then describes what it did, “gained worldwide acclaim after its adaptation” (B), followed by what it was adapted into, “a blockbuster film that captured” (D), and finally concludes with what was captured, “the hearts of audiences across generations” (A)."
+  },
+  {
+    "id": 300,
+    "passage": "",
+    "question": "Rearrange the following parts in the correct sequence to form a meaningful sentence:\n(A) fisherman prepared to venture into the\n(B) an orange glow across the water the\n(C) sea ready for another night of hard work\n(D) as the sun set over the horizon casting\n\nChoose the correct answer from the options given below:",
+    "options": [
+      "(A), (C), (D), (B)",
+      "(D), (B), (A), (C)",
+      "(B), (A), (D), (C)",
+      "(C), (B), (D), (A)"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct sequence forms the sentence: “As the sun set over the horizon, casting an orange glow across the water, the fisherman prepared to venture into the sea, ready for another night of hard work.” It starts by setting the scene and time with a descriptive phrase about the sunset (D), followed by what the sunset was casting (B), then introduces the main subject and action, the fisherman preparing to venture (A), and finally concludes by stating where he was going and for what purpose (C)."
   }
 ]
